@@ -1,0 +1,237 @@
+Keys,pt
+UI_NOT_IMPLEMENTED,Ainda não implementado
+UI_NEW_GAME,Novo jogo
+UI_LOAD_GAME,Carregar jogo
+UI_MODS,Módulos
+UI_OPTIONS,Opções
+UI_MENU_CREDITS,Créditos
+UI_LANGUAGE,Idioma
+UI_QUIT,Sair
+UI_BACK,Voltar
+UI_CONFIRM,Confirmar
+UI_CREATIVE_MODE,Construção livre
+UI_GAME_VERSION,Para versão do jogo
+UI_AUTHOR,Autor
+UI_NEWS,Notícias
+UI_TWITTER,Twitter (X)
+UI_YOUTUBE,YouTube
+UI_DISCORD,Discord
+UI_WIKI,Wiki
+UI_MUSIC,Música
+UI_FORUMS,Fóruns
+UI_CHOOSE_STORY,Escolha sua história
+UI_WORLD_SEED,Semente do mundo
+UI_SKIP_STORY,Pular texto da história
+UI_DIFFICULTY,Dificuldade
+UI_SCENARIO,Cenário
+UI_SHIPBUILDER,Construtor de naves
+UI_TRAITS,Traços
+UI_TIMID,Tímido
+UI_NORMAL,Normal
+UI_BRUTAL,Brutal
+UI_TUTORIAL,Tutorial
+UI_CHOOSE_CREW,Escolha sua tripulação
+UI_AVAILABLE,Disponível
+UI_SELECTED,Selecionado
+UI_BACKSTORY,História de fundo
+UI_LAWS,Leis
+UI_CHARACTERISTICS,Características
+UI_MEDICAL_CONDITIONS,Condições médicas
+UI_NONE,Nenhum
+UI_VOCATION,Vocação
+UI_PARTY_SKILLS,Habilidades do grupo
+UI_HEADGEAR,Capacete/Chapéu
+UI_RANDOMISE,Aleatorizar
+UI_OPTIONS,Opções
+UI_PAUSE_ON_ALERT,Pausar no alerta
+UI_SHOW_NAME_LABEL,Mostrar nome abaixo dos peões
+UI_SHOW_FPS,Mostrar FPS
+UI_SHOW_CUSTOM_MOUSE,Mostrar cursor do mouse personalizado
+UI_ENABLE_MOUSE_SCROLL,Ativar rolagem do mouse
+UI_DEV_MODE,Ativar modo desenvolvedor
+UI_GENERAL,Geral
+UI_CONTROLS,Controles
+UI_RESOLUTION,Resolução
+UI_VSYNC,Ativar Vsync
+UI_FULLSCREEN,Tela cheia
+UI_BORDERLESS_WINDOW,Ativar janela sem bordas
+UI_MASTER_VOLUME,Volume mestre
+UI_MUSIC_VOLUME,Volume da música
+UI_SOUNDS_VOLUME,Volume de efeitos
+UI_MENU_VOLUME,Volume do menu
+UI_ACCESSIBILITY,Acessibilidade
+UI_CLOSE,Fechar
+UI_CANCEL,Cancelar
+UI_OK,Ok
+UI_OPEN_USER_DIR,Abrir diretório do usuário
+UI_SAVE_MENU,Salvar jogo
+UI_LOAD_MENU,Carregar jogo
+UI_LOAD,Carregar Jogo
+UI_SAVE,Novo Salvamento
+UI_OVERWRITE,Sobrescrever
+UI_RELATIONS,Relações
+UI_RACE,Raça
+UI_SPECIES,Espécie
+UI_TYPE,Tipo
+UI_POWER,Energia
+UI_TECH_LEVEL,Nível tecnológico
+UI_CREW,Tripulação
+UI_NAME,Nome
+UI_MORALE,Moral
+UI_STATUS,Status
+UI_ASSIGNED_ROOM,Designar sala
+UI_ASSIGNED_ROLE,Designar função
+UI_CONTINUE,Continuar
+UI_SAVE_LOAD,Menu Salvar/Carregar
+UI_EXIT,Sair para o menu principal
+UI_EXIT_TO_OS,Sair para o SO
+UI_CONTINUE,Continuar
+UI_GAME_OVER,Fim de jogo
+UI_CARGO_CAPACITY,Capacidade de carga
+UI_MONEY,Créditos
+UI_RESOURCE,Recurso
+UI_YOUR_STOCK,Seu estoque
+UI_SELL_PRICE,Preço de venda
+UI_SELL,Vender
+UI_PURCHASE,Comprar
+UI_BUY_PRICE,Preço de compra
+UI_TRADER_STOCK,Estoque do comerciante
+UI_TOTAL_TRADE_VALUE,Valor total da negociação:
+UI_TRADE,Negociar
+UI_PLAYER,Jogador
+UI_TRADER,Comerciante
+UI_RESET,Redefinir
+UI_ACCEPT,Aceitar
+UI_ADD,Adicionar
+UI_TYPE_NEW_ROLE,Digite sua nova função aqui
+UI_SHIP_ROLES,Funções da nave
+UI_JOBS,Trabalhos
+UI_SCHEDULE,Programação
+UI_ADD_REMOVE_ROLES,Adicionar/Remover funções
+UI_ROLE_NAME,Nome da função
+UI_NUMBER_OF_MEMBERS,# membros
+UI_REMOVE,Remover
+UI_HOTKEY,Tecla de atalho
+UI_HEALTH,Saúde
+UI_NO_MATS_REQ,Nenhum material necessário
+HINT_ROTATE_LEFT,Rotacionar esquerda
+HINT_ROTATE_RIGHT,Rotacionar direita
+UI_QUARTERMASTER,Intendente
+UI_CAPTAIN,Capitão
+UI_REG_SHIP_NAME,Nome registrado
+UI_SYS_MONITOR,Monitor do sistema
+UI_ALERT,Alerta
+UI_CARGO,Carga
+UI_POWER_OUTPUT,Saída de energia
+UI_POWER_USAGE,Uso de energia
+UI_STORED_POWER,Energia armazenada
+UI_STORED_GAS,Gás armazenado
+UI_MAX_STORAGE,Armazenamento máx
+UI_WORK_TO_BUILD,Progresso de construção
+UI_GAS_PROVIDED,Gás produzido
+UI_GAS_SUPPLIED,Gás recebido
+UI_GAS_USAGE,Uso de gás
+UI_GAS_OUTPUT,Saída de gás
+UI_FUEL_REQUIRED,Combustível necessário
+UI_FUEL,Combustível
+UI_ENTER_NAME,Inserir nome
+UI_AUTO_SAVE,Ativar salvamento automático
+UI_HELP,Ajuda
+UI_GITHUB,Github
+UI_MAX_HP,HP máx
+UI_DETERIORATION,Taxa de deterioração
+UI_FLAMMABILITY,Inflamabilidade
+UI_MARKET_VALUE,Valor de mercado
+UI_PRICE_MULTIPLIER,Multiplicador de preço
+UI_MASS,Massa
+UI_COMFORT,Conforto
+DEFAULT_NO_NAME,Sem nome
+DEFAULT_NO_TITLE,Sem título
+DEFAULT_NO_DESCRIPTION,Sem descrição
+UI_DESCRIPTION,Descrição
+UNSUPPORTED_RESOLUTION,Tentando definir uma resolução não suportada
+UI_SHIP_WEIGHT_CAP,Capacidade de peso da nave
+UI_ZONES,Zonas
+UI_ALLOW_ALL,Permitir tudo
+UI_REMOVE_ALL,Remover tudo
+UI_PROFESSION,Profissão
+UI_PREVIOUS,Anterior
+UI_CURRENT,Atual
+UI_INFO,Informações
+UI_AGE,Idade
+UI_GENDER,Gênero
+UI_DIET,Dieta
+UI_HEALTH_CONDITIONS,Condições
+UI_INJURIES,Ferimentos
+UI_HYDRATION,Hidratação
+UI_ENERGY,Energia
+UI_FULLNESS,Saciedade
+UI_HISTORY,Histórico
+UI_SKILLS,Habilidades
+UI_STATISTICS,Estatísticas
+UI_PRIMARY_MATERIAL,Material primário
+UI_SECONDARY_MATERIAL,Material secundário
+UI_EXPORT_SHIP_LAYOUT,Exportar layout da nave
+UI_EXPORT_SHIP,Exportar nave
+UI_EXPORT,Exportar
+UI_CURRENT_TRACK,Faixa atual:
+UI_NEEDS,Necessidades
+UI_UNIVERSE_CREATION,Criação do universo
+UI_FACTIONS_AVAILABLE,Facções disponíveis
+UI_FACTIONS_SELECTED,Facções selecionadas
+UI_BUILDING,Construção
+UI_RESEARCH_MENU,Pesquisa
+UI_ORDERS_MENU,Ordens
+UI_GAME_INFO,Informações do jogo
+UI_FACTIONS,Facções
+UI_FACTION,Facção
+UI_RESPIRATION,Respiração
+UI_PRIORITY,Prioridade
+UI_ROSTER,Lista
+UI_ANIMALS,Animais
+UI_ROOMS,Salas
+UI_EQUIPMENT,Equipamento
+UI_CHOOSE_EMBLEM,Escolher emblema
+UI_PICK_A_COLOUR,Escolher uma cor
+UI_RECORDS,Registros
+UI_TRADE,Negociar
+UI_BRIBE,Subornar
+UI_NEGOTIATE,Negociar
+UI_COMMUNICATE,Abrir comunicações
+UI_BRIBE_TO_LEAVE,Subornar para ir embora
+UI_BRIBE_THEM_TO_TRADE,Subornar para negociar
+UI_JOBS_PRIORITY_EXPLANATION,Uma pontuação menor significa uma prioridade maior.
+UI_CONTAINED_MATERIALS,Materiais contidos:
+UI_CROP,Colheita
+UI_SEED_AMOUNT,Sementes disponíveis
+UI_INGREDIENT,Ingredientes
+UI_RECIPE,Receita
+UI_GAME_STATS,Estatísticas do jogo
+UI_EXIT_SURVEY,Sair da pesquisa
+UI_WISHLIST,ADICIONE À LISTA DE DESEJOS!
+UI_GAMETYPE,Tipo de jogo
+UI_HARMONY,Harmonia
+UI_RANDOM,Aleatório
+UI_DAYS_PASSED,Dias passados
+UI_TOTAL_WEALTH,Riqueza total
+UI_STARTING_CREW,Tripulação inicial:
+UI_SELECT_FACTIONS,Selecionar facções:
+UI_BURN_METER,Medidor de propulsão
+UI_LEADER,Líder
+UI_SHIP_TYPE,Tipo de nave
+UI_DISTANCE_TRAVELLED,Distância percorrida
+UI_TOOLTIP_SPEED,Velocidade da dica
+UI_PREPARE_ORDERS,Preparar ordens
+UI_SEND_ORDERS,Enviar ordens
+UI_ORDER_DETAILS,Detalhes da ordem
+UI_INITIATE_SCAN,Iniciar digitalização
+UI_SEND_AWAY_TEAM,Enviar equipe
+UI_RESET_LESSONS,Redefinir lições
+UI_ROOM_ASSIGNMENT,Atribuição de sala
+UI_HANDBOOK,Manual de operações
+UI_GAME_DATE,Data inicial
+UI_SCALE,Escala da IU
+UI_RESTORE_DEFAULTS,Restaurar padrões
+UI_AWAITING_KEY_PRESS,Aguardando pressionamento de tecla...
+UI_SET_NEW_KEYBIND,Definir novo atalho
+UI_CREATE_CAPTAIN,Criar capitão
