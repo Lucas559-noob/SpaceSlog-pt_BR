@@ -1,0 +1,75 @@
+{
+	"black": {
+		"title": "Preto"
+	},
+	"off_black": {
+		"title": "Preto fosco"
+	},
+	"dark_brown": {
+		"title": "Marrom escuro"
+	},
+	"med_dark_brown": {
+		"title": "Marrom médio escuro"
+	},
+	"chestnut_brown": {
+		"title": "Marrom castanho"
+	},
+	"light_chestnut_brown": {
+		"title": "Marrom castanho claro"
+	},
+	"dark_golden_brown": {
+		"title": "Marrom dourado escuro"
+	},
+	"light_golden_brown": {
+		"title": "Marrom dourado claro"
+	},
+	"honey_blonde": {
+		"title": "Loiro mel"
+	},
+	"bleach_blonde": {
+		"title": "Loiro descolorido"
+	},
+	"ash_blonde": {
+		"title": "Loiro cinza"
+	},
+	"ash_brown": {
+		"title": "Marrom cinza"
+	},
+	"light_blonde": {
+		"title": "Loiro claro"
+	},
+	"golden_blonde": {
+		"title": "Loiro dourado"
+	},
+	"strawberry_blonde": {
+		"title": "Loiro avermelhado"
+	},
+	"light_auburn": {
+		"title": "Avermelhado claro"
+	},
+	"dark_auburn": {
+		"title": "Avermelhado escuro"
+	},
+	"dark_grey": {
+		"title": "Cinza escuro"
+	},
+	"medium_grey": {
+		"title": "Cinza médio"
+	},
+	"light_grey": {
+		"title": "Cinza claro"
+	},
+	"white_blonde": {
+		"title": "Loiro branco"
+	},
+	"platinum_blonde": {
+		"title": "Loiro platinado"
+	},
+	"red": {
+		"title": "Vermelho"
+	},
+	"cotta": {
+		"title": "Cobre"
+	}
+}
+

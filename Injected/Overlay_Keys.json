@@ -1,0 +1,57 @@
+{
+    "Sealed": {
+        "title": "Selado"
+    },
+    "Leaking": {
+        "title": "Vazando"
+    },
+    "Breached": {
+        "title": "Rompendo"
+    },
+    "Connected": {
+        "title": "Conectado"
+    },
+    "Disconnected": {
+        "title": "Desconectado"
+    },
+    "VeryHot": {
+        "title": "Muito Quente"
+    },
+    "Hot": {
+        "title": "Quente"
+    },
+    "Room": {
+        "title": "Sala"
+    },
+    "Cold": {
+        "title": "Frio"
+    },
+    "SubZero": {
+        "title": "Abaixo de Zero"
+    },
+    "ExtremeCold": {
+        "title": "Frio Extremo"
+    },
+    "Safe": {
+        "title": "Seguro"
+    },
+    "Harmful": {
+        "title": "Prejudicial"
+    },
+    "Lethal": {
+        "title": "Letal"
+    },
+    "High": {
+        "title": "Alto"
+    },
+    "Medium": {
+        "title": "Médio"
+    },
+    "Low": {
+        "title": "Baixo"
+    },
+    "None": {
+        "title": "Nenhum"
+    }
+}
+

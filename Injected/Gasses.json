@@ -1,0 +1,23 @@
+{
+    "Oxygen": {
+        "title": "Oxigênio",
+        "description": "A maioria dos humanóides e muitas outras formas de vida usam oxigênio para respirar."
+    },
+    "Nitrogen": {
+        "title": "Nitrogênio",
+        "description": "Nitrogênio é um elemento comum encontrado no slog, e está presente na maioria dos compostos orgânicos."
+    },
+    "CarbonDioxide": {
+        "title": "Dióxido de Carbono",
+        "description": "Dióxido de Carbono é um subproduto respiratório da maioria dos humanóides e outras formas de vida."
+    },
+    "Hazardous": {
+        "title": "Perigoso",
+        "description": "Gás perigoso é um termo coletivo para qualquer gás que seja considerado tóxico ou de outra forma prejudicial à maioria das formas de vida."
+    },
+    "Explosive": {
+        "title": "Explosivo",
+        "description": "Gás explosivo é um termo coletivo para qualquer gás que seja considerado inflamável ou explosivo."
+    }
+}
+

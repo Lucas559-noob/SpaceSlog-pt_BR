@@ -1,0 +1,42 @@
+{
+	"General": {
+		"title": "Geral"
+	},
+	"Slaughtered": {
+		"title": "Abate"
+	},
+	"Mining": {
+		"title": "Minerado"
+	},
+	"Dehydration": {
+		"title": "Desidratação"
+	},
+	"Starvation": {
+		"title": "Inanição"
+	},
+	"Exhaustion": {
+		"title": "Exaustão"
+	},
+	"Suffocation": {
+		"title": "Sufocamento"
+	},
+	"Rot": {
+		"title": "Putrefação"
+	},
+	"Deteriorate": {
+		"title": "Deterioração"
+	},
+	"OrganFailure": {
+		"title": "Falha de órgão"
+	},
+	"Explosion": {
+		"title": "Explosão"
+	},
+	"Burn": {
+		"title": "Queimadura"
+	},
+	"HighGforce": {
+		"title": "Altas forças G"
+	}
+}
+

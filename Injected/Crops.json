@@ -1,0 +1,27 @@
+{
+    "WheatPlant": {
+        "title": "Grama de trigo",
+        "description": "Uma planta que produz trigo quando cultivada."
+    },
+    "RicePlant": {
+        "title": "Grama de arroz",
+        "description": "Uma planta que produz arroz quando cultivada."
+    },
+    "PotatoPlant": {
+        "title": "Planta de batata",
+        "description": "Uma planta que produz batatas quando cultivada."
+    },
+    "CarrotPlant": {
+        "title": "Planta de cenoura",
+        "description": "Uma planta que produz cenouras quando cultivada."
+    },
+    "HerbPlant": {
+        "title": "Planta de ervas",
+        "description": "Uma planta que produz ervas quando cultivada."
+    },
+    "HopsPlant": {
+        "title": "Planta de lúpulo",
+        "description": "Uma planta que produz lúpulo quando cultivada."
+    }
+}
+

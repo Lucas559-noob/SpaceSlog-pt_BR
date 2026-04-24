@@ -1,0 +1,23 @@
+{
+	"Water": {
+		"title": "Água",
+        "description": "Derreta gelo em água."
+	},
+    "Wine": {
+		"title": "Vinho",
+        "description": "Fermente água e bagas juntas para criar vinho."
+	},
+    "VegetableBroth": {
+		"title": "Caldo de vegetais",
+        "description": "Faça um delicioso caldo de ervas e vegetais."
+	},
+    "BasicMeatBroth": {
+		"title": "Caldo de carne sem sabor",
+        "description": "Faça um caldo de carne sem sabor."
+	},
+    "BoneBroth": {
+		"title": "Caldo de ossos",
+        "description": "Faça um nutritivo caldo de ossos."
+	}
+}
+

@@ -1,0 +1,11 @@
+{
+	"Shoes": {
+		"title": "Sapatos",
+		"description": "Um par comum de tênis confortáveis."
+	},
+	"Boots": {
+		"title": "Botas",
+		"description": "Um par de botas confortáveis, oferecendo proteção aprimorada para os tornozelos."
+	}
+}
+

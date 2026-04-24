@@ -1,0 +1,15 @@
+{
+	"YoungAge": {
+		"title": "Jovem",
+		"description": "Seu capitão é jovem, ágil e provavelmente um pouco ingênuo. Ainda um pouco inexperiente, {pawn_pronoun} pode achar que {pawn_reflexive} está um pouco fora do seu elemento às vezes."
+	},
+	"MiddleAge": {
+        "title": "Meia-idade",
+		"description": "Seu capitão tem idade média. {pawn_pronoun} é experiente e relativamente capaz, tendo passado tempo suficiente na cadeira para lidar com a maioria das situações."
+	},
+	"OldAge": {
+        "title": "Velho",
+		"description": "Seu capitão é mais velho mas também mais sábio. Embora com a idade também venham os inevitáveis ossos doloridos e {pawn_name} sente isso tanto quanto qualquer outro. Viver até esta idade em uma época tão brutal tem que ser elogiado."
+	}
+}
+

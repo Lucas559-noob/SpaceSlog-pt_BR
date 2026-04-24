@@ -1,0 +1,19 @@
+{
+    "Consciousness": {
+        "title": "Consciência",
+        "description": "Uma medida de quão alerta e responsivo este personagem está. Se isso cair muito baixo, este personagem irá colapsar, entrar em coma ou morrer."
+    },
+    "Blood": {
+        "title": "Sangue",
+        "description": "Uma representação da quantidade de sangue no corpo deste personagem. Perder muito sangue levará à morte."
+    },
+    "Pain": {
+        "title": "Dor",
+        "description": "Uma medida de quanta dor este personagem está sentindo. Muita dor pode fazer este personagem colapsar."
+    },
+    "Mobility": {
+        "title": "Mobilidade",
+        "description": "Isso mostra a mobilidade atual do personagem, representando sua capacidade de se mover e realizar ações físicas."
+    }
+}
+

@@ -1,0 +1,27 @@
+{
+    "Slavery": {
+        "title": "Escravidão",
+        "description": "O tráfico de espécies é normal e não é punível por lei. Isso tornou a compra e venda de escravos uma visão comum nas terras desta facção e seus arredores."
+    },
+    "Cannibalism": {
+        "title": "Canibalismo",
+        "description": "Alguns podem recorrer ao canibalismo por necessidade e outros por desejo. Esta facção não vê problemas em nenhum dos casos e até o legalizou."
+    },
+    "Commerce": {
+        "title": "Comércio",
+        "description": "Um sistema de comércio sofisticado forma a base desta sociedade, enfatizando comércio justo, estabilidade econômica e prosperidade mútua. Todos os cidadãos são obrigados a contribuir para a economia participando do comércio."
+    },
+    "Exploration": {
+        "title": "Exploração",
+        "description": "Como uma espécie movida pela exploração, todos os indivíduos são legalmente obrigados a servir a bordo de qualquer nave de exploração enviada."
+    },
+    "Expansionist": {
+        "title": "Expansionista",
+        "description": "É encorajado e legal tentar colonizar outros segmentos do Slog. Membros da {faction_name} também têm a obrigação legal de pesquisar e documentar qualquer planeta que mostre potencial para terraformação."
+    },
+    "Banditry": {
+        "title": "Bandidos",
+        "description": "O banditismo é encorajado dentro desta facção e frequentemente inclui crimes como extorsão, roubo e assassinato. Aqueles que se envolvem nestes tipos de atividades são frequentemente chamados de bandidos."
+    }
+}
+

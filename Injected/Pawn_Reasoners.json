@@ -1,0 +1,15 @@
+{
+    "Basic": {
+        "title": "Raciocinador Básico"
+    },
+    "Passive": {
+        "title": "Raciocinador Passivo"
+    },
+    "Human": {
+        "title": "Raciocinador Humano"
+    },
+    "HumanMentalBreak": {
+        "title": "Raciocinador de Colapso Mental Humano"
+    }
+}
+

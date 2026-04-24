@@ -1,0 +1,79 @@
+{
+    "RawMeat": {
+        "title": "Carne crua",
+        "description": "Carne que está crua. Tem melhor sabor quando cozida."
+    },
+    "CookedMeat": {
+        "title": "Carne cozida",
+        "description": "Carne que está cozida. Faz uma boa refeição."
+    },
+    "Berries": {
+        "title": "Bagas",
+        "description": "Bagas selvagens, provavelmente muito venenosas."
+    },
+    "Fungus": {
+        "title": "Fungo",
+        "description": "Fungo selvagem. Pode ser venenoso."
+    },
+    "Rice": {
+        "title": "Arroz",
+        "description": "Arroz, cultivado a partir de sementes."
+    },
+    "Potato": {
+        "title": "Batata",
+        "description": "Batata, cultivada a partir de sementes."
+    },
+    "Wheat": {
+        "title": "Trigo",
+        "description": "Uma cultura básica, essencial para produzir alimentos. Relativamente fácil de cultivar e colher."
+    },
+    "Herbs": {
+        "title": "Ervas",
+        "description": "Podem ser cultivadas e usadas para criar vários produtos comestíveis."
+    },
+    "Hops": {
+        "title": "Lúpulo",
+        "description": "Um ingrediente essencial para preparar cerveja."
+    },
+    "RootVegetables": {
+        "title": "Vegetais de raiz",
+        "description": "Podem ser cultivados e usados para criar várias sopas."
+    },
+    "PackagedMeals": {
+        "title": "Refeição embalada",
+        "description": "Uma refeição nutritiva pré-preparada."
+    },
+    "Bread": {
+        "title": "Pão",
+        "description": "Um item alimentar fundamental feito de trigo."
+    },
+    "Bone": {
+        "title": "Osso",
+        "description": "Ossos de restos esqueléticos. Podem ser usados para criar sopas."
+    },
+    "VegetableBroth": {
+        "title": "Caldo de vegetais",
+        "description": "Um caldo saboroso feito com ervas e vegetais."
+    },
+    "BasicMeatBroth": {
+        "title": "Caldo básico de carne",
+        "description": "Um caldo carnudo sem graça."
+    },
+    "BoneBroth": {
+        "title": "Caldo de osso",
+        "description": "Um caldo de osso nutritivo."
+    },
+    "Water": {
+        "title": "Água",
+        "description": "Água normal filtrada."
+    },
+    "Ale": {
+        "title": "Cerveja",
+        "description": "Uma bebida alcoólica popular mas grosseiramente feita."
+    },
+    "Wine": {
+        "title": "Vinho de bagas",
+        "description": "Uma bebida alcoólica refinada e frutada."
+    }
+}
+

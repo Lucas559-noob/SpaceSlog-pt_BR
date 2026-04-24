@@ -1,0 +1,15 @@
+{
+    "Custom": {
+        "title": "Personalizado",
+        "description": "Um cargo criado personalizado."
+    },
+    "Captain": {
+        "title": "Capitão",
+        "description": "Selecionar um bom capitão ajudará a garantir que sua tripulação esteja feliz, bem disciplinada e menos propensa a se amotinar."
+    },
+    "Quartermaster": {
+        "title": "Contramestre",
+        "description": "Um Contramestre tem mais probabilidade de iniciar comércio ou diplomacia."
+    }
+}
+

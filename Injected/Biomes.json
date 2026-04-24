@@ -1,0 +1,15 @@
+{
+    "AridDesert": {
+        "title": "Deserto Árido",
+        "description": "Um ambiente seco e árido com vegetação esparsa."
+    },
+    "RockyDesert": {
+        "title": "Deserto Rochoso",
+        "description": "Um ambiente seco e rochoso com vegetação esparsa."
+    },
+    "DesertPlains": {
+        "title": "Planícies Desérticas",
+        "description": "Um ambiente seco e árido com quase nenhuma vegetação."
+    }
+}
+

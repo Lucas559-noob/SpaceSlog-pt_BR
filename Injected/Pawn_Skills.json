@@ -1,0 +1,47 @@
+{
+	"Engineering" : {
+		"title": "engenharia",
+		"description": "Uma habilidade útil ao construir, manter e reparar coisas."
+	},
+	"Navigation" : {
+		"title": "navegação",
+		"description": "Velocidades mais rápidas da nave e pode tornar um capitão melhor."
+	},
+	"Ranged" : {
+		"title": "combate à distância",
+		"description": "Combate à distância, melhor precisão e eficácia com armas de fogo e armamento embarcado."
+	},
+	"Melee" : {
+		"title": "combate corpo a corpo",
+		"description": "Eficácia em combate corpo a corpo, armado e desarmado."
+	},
+	"Social" : {
+		"title": "social",
+		"description": "Simpatia, negociação e a habilidade de se dar bem com outros."
+	},
+	"Operations" : {
+		"title": "operações",
+		"description": "Operar vários componentes da nave, como propulsores."
+	},
+	"Cooking" : {
+		"title": "culinária",
+		"description": "Habilidade para cozinhar e preparar bebidas usando ingredientes crus."
+	},
+	"Mining" : {
+		"title": "mineração",
+		"description": "Eficiência e velocidade na mineração de materiais."
+	},
+	"Science" : {
+		"title": "ciência",
+		"description": "Pesquisa e cultivo."
+	},
+	"Animals" : {
+		"title": "animais",
+		"description": "Domesticar e treinar animais, talvez até alienígenas."
+	},
+	"Medical" : {
+		"title": "medicina",
+		"description": "Usar medicina e curar outros."
+	}
+}
+

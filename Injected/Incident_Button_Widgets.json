@@ -1,0 +1,12 @@
+{
+    "ShipWidget": {
+        "description": "{ship_name}\n\nClique para ver os detalhes da nave."
+    },
+    "PlanetWidget": {
+        "description": "{planet_name}\n\nClique para ver os detalhes do planeta."
+    },
+    "StarWidget": {
+        "description": "{planet_name}\n\nClique para ver os detalhes da estrela."
+    }
+}
+

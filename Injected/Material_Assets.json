@@ -1,0 +1,99 @@
+{
+	"Coins": {
+		"title": "Moedas",
+		"description": "A moeda padrão conhecida por ser usada em todo o slog."
+	},
+	"Diamond": {
+		"title": "Diamante espacial",
+		"description": "Uma mercadoria industrial extremamente rara. Preferencialmente usada como material de construção em vez de joias devido à sua dureza superior."
+	},
+	"FuelCell": {
+		"title": "Célula de combustível",
+		"description": "Contém Plutônio. Garante que o Plutônio permaneça estável até que seja necessário usá-lo."
+	},
+	"Uranium": {
+		"title": "Urânio",
+		"description": "Um material extremamente denso que pode ser refinado em Plutônio e depois armazenado em Células de Combustível."
+	},
+	"Titanium": {
+		"title": "Titânio",
+		"description": "Uma liga metálica relativamente leve, mas durável. Pode ser usada para construir uma grande variedade de estruturas, armas e outras máquinas."
+	},
+	"Glass": {
+		"title": "Vidro",
+		"description": "Um material transparente comumente usado para janelas. É frágil e pode quebrar facilmente."
+	},
+	"Silver": {
+		"title": "Prata",
+		"description": "Um tipo de metal branco frequentemente usado para construção, mas não tão forte quanto outros metais."
+	},
+	"Alloys": {
+		"title": "Ligas",
+		"description": "Essas ligas são excepcionalmente leves e duráveis, mas extremamente raras e caras."
+	},
+	"Gold": {
+		"title": "Ouro",
+		"description": "Um metal brilhante e altamente valioso. Não é tão forte quanto outros metais, mas tem boa aparência."
+	},
+	"Silicon": {
+		"title": "Silício",
+		"description": "Um elemento versátil essencial para eletrônicos e componentes de computador."
+	},
+	"Ruby": {
+		"title": "Rubi",
+		"description": "Uma pedra preciosa rara e vibrante."
+	},
+	"Emerald": {
+		"title": "Esmeralda",
+		"description": "Uma rara pedra preciosa verde."
+	},
+	"Logs": {
+		"title": "Troncos de madeira dura",
+		"description": "Coletados de certos tipos de árvores de alguns planetas. Podem ser usados para construir estruturas e armas."
+	},
+	"Cloth": {
+		"title": "Tecido",
+		"description": "Um tecido macio e confortável criado a partir de fibras de algodão."
+	},
+	"Linen": {
+		"title": "Linho",
+		"description": "Um tecido forte e durável criado a partir de fibras de linho."
+	},
+	"Leather": {
+		"title": "Couro",
+		"description": "Um material forte, flexível e durável criado a partir de peles de animais."
+	},
+	"Wool": {
+		"title": "Lã",
+		"description": "Uma fibra natural respirável. Ótima para isolamento."
+	},
+	"CarbonFibre": {
+		"title": "Tecido de fibra de carbono",
+		"description": "Um material forte, flexível e durável criado a partir de carbono."
+	},
+	"Concrete": {
+		"title": "Concreto",
+		"description": "Um material artificial extremamente pesado, mas forte. Provavelmente não é a melhor escolha para uso em naves espaciais."
+	},
+	"Sandstone": {
+		"title": "Arenito",
+		"description": "Um tipo relativamente macio de rocha que pode quebrar facilmente."
+	},
+	"Rock": {
+		"title": "Rocha",
+		"description": "Um pedaço de material natural composto de minerais."
+	},
+	"Carbon": {
+		"title": "Carbono",
+		"description": "Carbono pode ser usado para criar fibra de carbono."
+	},
+	"Granite": {
+		"title": "Granito",
+		"description": "Um tipo extremamente duro de rocha."
+	},
+	"Ice": {
+		"title": "Gelo",
+		"description": "Pode ser usado para produzir oxigênio ou derretido para obter água."
+	}
+}
+

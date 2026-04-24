@@ -1,0 +1,54 @@
+{
+	"Punch": {
+		"title": "Soco"
+	},
+	"Bite": {
+		"title": "Mordida"
+	},
+	"Peck": {
+		"title": "Bicada"
+	},
+	"Scratch": {
+		"title": "Arranhão"
+	},
+	"Poke": {
+		"title": "Cutucada"
+	},
+	"Headbutt": {
+		"title": "Cabeçada"
+	},
+	"Gouge": {
+		"title": "Rasgo"
+	},
+	"Stomp": {
+		"title": "Pisada"
+	},
+	"Kick": {
+		"title": "Chute"
+	},
+	"Whip": {
+		"title": "Chicote"
+	},
+	"Stab": {
+		"title": "Esfaqueada"
+	},
+	"Slash": {
+		"title": "Corte"
+	},
+	"Hack": {
+		"title": "Corte bruto"
+	},
+	"Heave": {
+		"title": "Arremesso"
+	},
+	"PommelBash": {
+		"title": "Golpe com punho"
+	},
+	"Swing": {
+		"title": "Balanço"
+	},
+	"ShieldBash": {
+		"title": "Golpe com escudo"
+	}
+}
+

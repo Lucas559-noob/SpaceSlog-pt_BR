@@ -1,0 +1,9 @@
+{
+	"Male": {
+		"description": "Seu capitão é do sexo masculino."
+	},
+	"Female": {
+		"description": "Seu capitão é do sexo feminino."
+	}
+}
+

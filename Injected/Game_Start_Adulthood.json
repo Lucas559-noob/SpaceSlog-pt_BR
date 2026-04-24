@@ -1,0 +1,15 @@
+{
+	"Loner": {
+        "title": "Solitário",
+		"description": "Como um pouco solitário, {pawn_name} geralmente prefere solidão a interações sociais, frequentemente se mantendo para {pawn_reflexive} e evitando grandes grupos de pessoas. O silêncio reconfortante do motor de uma nave é muito mais preferível para {pawn_reflexive_short} do que o barulho alto de outros membros da tripulação."
+	},
+	"EasyGoing": {
+        "title": "Descomplicado",
+		"description": "{pawn_name} é descomplicado e geralmente bem querido, o que facilita para {pawn_reflexive_short} se dar bem com os outros. Se tiver escolha, porém, {pawn_pronoun} preferiria ter a companhia dos outros ao invés de estar sozinho."
+	},
+	"PeoplePerson": {
+        "title": "Pessoa Sociável",
+		"description": "{pawn_name} é extremamente sociável e realmente gosta da companhia dos outros. Alguns dizem que é um líder natural e {pawn_pronoun} é conhecido por ser o centro das atenções, fazendo amigos onde quer que {pawn_pronoun} vá."
+	}
+}
+

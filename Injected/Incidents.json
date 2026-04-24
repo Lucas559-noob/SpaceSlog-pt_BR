@@ -1,0 +1,56 @@
+{
+    "PassingShip": {
+        "title": "Nave passando",
+        "description": "Nossos scanners detectaram uma nave próxima. Deve estar dentro do alcance de comunicação em breve."
+    },
+    "PassingShipPhysical": {
+        "title": "Nave passando física",
+        "description": "Nossos scanners detectaram uma nave próxima. Deve estar dentro do alcance de comunicação em breve."
+    },
+    "Asteroids": {
+        "title": "Campo de asteroides",
+        "description": "Estamos passando sobre um campo de asteroides. Precisaremos sair do modo de alta velocidade para acessá-los, embora devamos ter cuidado com parasitas e infecções."
+    },
+    "Debris": {
+        "title": "Destroços",
+        "description": "Estamos detectando algum tipo de destroços próximo, saia do modo de alta velocidade para recolher os destroços em busca de suprimentos ou procurar sobreviventes. Devemos estar atentos aos piratas na área."
+    },
+    "CryoChamber": {
+        "title": "Câmara de criogenia",
+        "description": "Parece haver uma Câmara de Criogenia flutuando por perto. Poderíamos verificar se há alguém dentro."
+    },
+    "HostileCreatureAssault": {
+        "title": "Ataque"
+    },
+    "PassingShipRescue": {
+        "title": "Resgate de nave passando",
+        "description": "Nossos scanners detectaram uma nave próxima. Deve estar dentro do alcance de comunicação em breve."
+    },
+    "PassingPlanet": {
+        "title": "Planeta passando",
+        "description": "Um planeta foi detectado nas proximidades."
+    },
+    "PassingStar": {
+        "title": "Estrela passando",
+        "description": "Uma estrela foi detectada nas proximidades."
+    },
+    "Infestation": {
+        "title": "Infestação"
+    },
+    "MayDayPawn": {
+        "title": "Sinal de socorro",
+        "description": "Você está muito longe para parar e resgatar {pawn}."
+    },
+    "AbandonedFacility": {
+        "title": "Instalação abandonada",
+        "description": "Uma instalação foi detectada neste setor. Devemos sair do modo de alta velocidade para investigar."
+    },
+    "HostileSwarm": {
+        "title": "Enxame hostil",
+        "description": "O enxame hostil de {pawn}s entrou neste setor."
+    },
+    "TransportShipAssault": {
+        "title": "Ataque"
+    }
+}
+

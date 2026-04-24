@@ -1,0 +1,36 @@
+{
+    "IsPlayerShipMoving": {
+        "title": "A nave do jogador está se movendo"
+    },
+    "IsPlayerShipStationary": {
+        "title": "A nave do jogador está parada"
+    },
+    "AboveWealthThreshold20k": {
+        "title": "O jogador está acima deste valor de riqueza?"
+    },
+    "AboveDistanceTravelled": {
+        "title": "O jogador superou esta distância percorrida?"
+    },
+    "IsTransponderActive": {
+        "title": "O transponder do jogador está ativo?"
+    },
+    "IsCommsConsoleActive": {
+        "title": "Um console de comunicações está ativo?"
+    },
+    "PlayerPawnsCollapsedOrDead": {
+        "title": "Todos os peões do jogador estão colapsados ou mortos?"
+    },
+    "StillFriendlyFaction": {
+        "title": "Ainda existe uma facção amigável?"
+    },
+    "HasGainedCargoRecently": {
+        "title": "A nave do jogador adquiriu alguma carga recentemente?"
+    },
+    "HasTravelled": {
+        "title": "O jogador já viajou?"
+    },
+    "IsSwarmsEnabled": {
+        "title": "Esta configuração de dificuldade está definida?"
+    }
+}
+

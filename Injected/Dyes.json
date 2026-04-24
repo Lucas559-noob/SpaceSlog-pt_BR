@@ -1,0 +1,33 @@
+{
+    "RedDye": {
+		"title": "Corante vermelho"
+	},
+	"CharcoalDye": {
+		"title": "Corante de carvão"
+	},
+	"GreenDye": {
+		"title": "Corante verde"
+	},
+	"BlueDye": {
+		"title": "Corante azul"
+	},
+	"LightBlueDye": {
+		"title": "Corante azul claro"
+	},
+	"PurpleDye": {
+		"title": "Corante roxo"
+	},
+	"TanDye": {
+		"title": "Corante bronzeado"
+	},
+	"DarkTanDye": {
+		"title": "Corante bronzeado escuro"
+	},
+	"OrangeDye": {
+		"title": "Corante laranja"
+	},
+	"YellowDye": {
+		"title": "Corante amarelo"
+	}
+}
+

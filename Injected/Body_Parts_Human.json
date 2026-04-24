@@ -1,0 +1,93 @@
+{
+	"Jaw": {
+		"title": "Mandíbula"
+	},
+	"LeftFoot": {
+		"title": "Pé esquerdo"
+	},
+	"RightFoot": {
+		"title": "Pé direito"
+	},
+	"LeftArm": {
+		"title": "Braço esquerdo"
+	},
+	"RightArm": {
+		"title": "Braço direito"
+	},
+	"LeftHand": {
+		"title": "Mão esquerda"
+	},
+	"RightHand": {
+		"title": "Mão direita"
+	},
+	"Groin": {
+		"title": "Virilha"
+	},
+	"LeftLittleFinger": {
+		"title": "Dedinho esquerdo"
+	},
+	"LeftFourthFinger": {
+		"title": "Quarto dedo esquerdo"
+	},
+	"LeftMiddleFinger": {
+		"title": "Dedo médio esquerdo"
+	},
+	"LeftForeFinger": {
+		"title": "Indicador esquerdo"
+	},
+	"RightLittleFinger": {
+		"title": "Dedinho direito"
+	},
+	"RightFourthFinger": {
+		"title": "Quarto dedo direito"
+	},
+	"RightMiddleFinger": {
+		"title": "Dedo médio direito"
+	},
+	"RightForeFinger": {
+		"title": "Indicador direito"
+	},
+	"LeftThumb": {
+		"title": "Polegar esquerdo"
+	},
+	"RightThumb": {
+		"title": "Polegar direito"
+	},
+	"LeftBigToe": {
+		"title": "Dedo grande do pé esquerdo"
+	},
+	"LeftSecondToe": {
+		"title": "Segundo dedo do pé esquerdo"
+	},
+	"LeftThirdToe": {
+		"title": "Terceiro dedo do pé esquerdo"
+	},
+	"LeftFourthToe": {
+		"title": "Quarto dedo do pé esquerdo"
+	},
+	"LeftLittleToe": {
+		"title": "Dedinho do pé esquerdo"
+	},
+	"RightBigToe": {
+		"title": "Dedo grande do pé direito"
+	},
+	"RightSecondToe": {
+		"title": "Segundo dedo do pé direito"
+	},
+	"RightThirdToe": {
+		"title": "Terceiro dedo do pé direito"
+	},
+	"RightFourthToe": {
+		"title": "Quarto dedo do pé direito"
+	},
+	"RightLittleToe": {
+		"title": "Dedinho do pé direito"
+	},
+	"Neck": {
+		"title": "Pescoço"
+	},
+	"Nose": {
+		"title": "Nariz"
+	}
+}
+

@@ -1,0 +1,15 @@
+{
+	"Human": {
+		"title": "Carne",
+        "description": "Grossa e vermelha."
+	},
+    "Worm": {
+		"title": "Carne",
+		"description": "Verde e viscosa."
+	},
+	"SmallAnimal": {
+		"title": "Carne",
+		"description": "Grossa e vermelha."
+	}
+}
+

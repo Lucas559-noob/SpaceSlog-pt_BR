@@ -1,0 +1,51 @@
+{
+    "AlertCrewmanNeedsRescue": {
+        "title": "Tripulante precisa de resgate",
+        "description": "Um de seus tripulantes precisa ser resgatado.\n\nCertifique-se de ter uma cama vazia para ele descansar e que a área esteja segura e contenha oxigênio.\n\nSe você não tiver materiais, pode colocar um local de dormir gratuitamente."
+    },
+    "AlertNeedCrewBeds": {
+        "title": "Sua tripulação não tem camas disponíveis",
+        "description": "Sua tripulação dorme muito melhor se tiver uma cama para dormir. Quanto melhor a cama, menos sono eles precisarão.\n\nSe você não tiver materiais, pode colocar um local de dormir gratuitamente."
+    },
+    "AlertNeedAirSource": {
+        "title": "Fonte de ar ausente",
+        "description": "Você precisa de uma fonte de ar para preencher suas salas com oxigênio.\n\nCada sala com atmosfera requer ar fornecido por algum tipo de suprimento de ar, através de dutos, para um ventilador de ar.\n\nTente construir um Suporte de Vida para começar, depois conecte isso com Dutos a um Ventilador de Ar."
+    },
+    "AlertNeedAirVent": {
+        "title": "Um suprimento de ar não tem ventilador de ar",
+        "description": "Você tem um suprimento de ar ligado, mas ele não pode fornecer ar porque não há ventilador de ar conectado.\n\nCertifique-se de ter construído um ventilador de ar, e que o ventilador e o suprimento de ar estejam próximos um do outro ou conectados via dutos."
+    },
+    "AlertLowFood": {
+        "title": "Comida baixa",
+        "description": "Você está extremamente baixo em comida.\n\nCultive, abata, negocie ou prepare comida."
+    },
+    "AlertLowDrink": {
+        "title": "Bebida baixa",
+        "description": "Você está extremamente baixo em líquidos para beber.\n\nVocê pode obter mais líquidos para beber derretendo gelo em barris ou negociando com naves que passam."
+    },
+    "AlertNoStockpile": {
+        "title": "Nenhuma zona de estoque",
+        "description": "Você não tem zonas de estoque, o que significa que não pode armazenar nenhum material.\n\nUse o menu superior esquerdo para selecionar um estoque e colocá-lo dentro de sua nave. Alternativamente, você pode colocar um estoque temporário fora de sua nave."
+    },
+    "AlertLowMood": {
+        "title": "Humor baixo",
+        "description": "Um ou mais de seus tripulantes têm humor baixo.\n\nAbra o painel de moral no menu de personagens e avalie quais necessidades de humor precisam ser corrigidas."
+    },
+    "AlertBreach": {
+        "title": "Nave violada!",
+        "description": "Uma ou mais salas de sua nave foram violadas. Qualquer atmosfera nestas salas agora estará escapando para o espaço!\n\nSelecione a violação com Estrutura de Nave para limitar qualquer perda atmosférica adicional.\n\nA falta de atmosfera pode causar a suffocação de sua tripulação e a morte de qualquer flora."
+    },
+    "AlertIdleCrew": {
+        "title": "Tripulação ociosa",
+        "description": "Toda sua tripulação está ociosa e não tem nada para fazer.\n\nAbra o menu de tripulação para atribuir ordens de trabalho e horários.\n\nSe algum de seus tripulantes tiver sido comandado, eles não realizarão tarefas diárias normais."
+    },
+    "AlertUrgentMedicalTreatment": {
+        "title": "Tratamento médico urgente",
+        "description": "Um ou mais de seus tripulantes precisam de atenção médica urgente.\n\nCertifique-se de curá-los com um kit médico o mais rápido possível."
+    },
+    "AlertBlackAlert": {
+        "title": "Alerta Preto Ativado",
+        "description": "Sua nave está em estado de alerta preto. Isso significa que sua tripulação não poderá sair da nave.\n\nVocê pode desativar o alerta preto no menu de sistemas da nave."
+    }
+}
+

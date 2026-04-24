@@ -1,0 +1,27 @@
+{
+    "DeconstructFlooringOverlay": {
+        "title": "Desconstruir sobreposição de piso",
+        "description": "Designar sobreposições de piso como carpetes para serem desconstruídas."
+    },
+    "DeconstructCables": {
+        "title": "Desconstruir cabos",
+        "description": "Designar quaisquer cabos para serem desconstruídos."
+    },
+    "DeconstructDucting": {
+        "title": "Desconstruir dutos",
+        "description": "Designar quaisquer dutos para serem desconstruídos."
+    },
+    "CancelFlooringOverlay": {
+        "title": "Cancelar sobreposição de piso",
+        "description": "Cancelar qualquer trabalho de sobreposição de piso designado, como carpetes."
+    },
+    "CancelCables": {
+        "title": "Cancelar cabos",
+        "description": "Cancelar quaisquer cabos designados."
+    },
+    "CancelDucting": {
+        "title": "Cancelar dutos",
+        "description": "Cancelar quaisquer dutos designados."
+    }
+}
+

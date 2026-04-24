@@ -1,0 +1,19 @@
+{
+	"SpaceHelmet": {
+		"title": "Capacete espacial",
+		"description": "Parte de um traje EVA (Atividade Extra-Veicular); a contraparte do traje espacial também é necessária para funcionalidade completa. Extremamente desconfortável para dormir."
+	},
+	"CowboyHat": {
+		"title": "Chapéu de cowboy",
+		"description": "Considerado tanto um acessório de moda quanto um meio prático de proteger a cabeça dos elementos."
+	},
+	"BeanieHat": {
+		"title": "Chapéu de malha",
+		"description": "Excelente para ajudar a manter sua cabeça aquecida."
+	},
+	"CombatHelmet": {
+		"title": "Capacete de combate",
+		"description": "Um capacete rígido projetado para proteger a cabeça quando em combate."
+	}
+}
+

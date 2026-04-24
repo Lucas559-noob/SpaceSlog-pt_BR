@@ -1,0 +1,141 @@
+{
+    "Build": {
+        "title": "Construir edifícios"
+    },
+    "Deconstruct": {
+        "title": "Desconstruir edifícios"
+    },
+    "Repair": {
+        "title": "Reparar edifícios"
+    },
+    "Mine": {
+        "title": "Minerar asteroides"
+    },
+    "Refuel": {
+        "title": "Reabastecer edifícios"
+    },
+    "Eat": {
+        "title": "Comer"
+    },
+    "Drink": {
+        "title": "Beber"
+    },
+    "Sleep": {
+        "title": "Dormir"
+    },
+    "Roam": {
+        "title": "Vagar"
+    },
+    "Idle": {
+        "title": "Ocioso"
+    },
+    "StampFire": {
+        "title": "Apagar incêndios"
+    },
+    "Clean": {
+        "title": "Limpar sujeira"
+    },
+    "SelfTend": {
+        "title": "Autocuidado"
+    },
+    "RestUntilHealed": {
+        "title": "Descansar como paciente"
+    },
+    "Rescue": {
+        "title": "Resgatar criatura aliada caída"
+    },
+    "Haul": {
+        "title": "Transportar para o estoque"
+    },
+    "Combine": {
+        "title": "Combinar itens"
+    },
+    "HaulObstruction": {
+        "title": "Remover obstrução"
+    },
+    "HaulToPrefab": {
+        "title": "Transportar para construção"
+    },
+    "HaulToRecipe": {
+        "title": "Transportar para receita"
+    },
+    "Research": {
+        "title": "Conduzir pesquisa"
+    },
+    "FindAtmosphere": {
+        "title": "Encontrar atmosfera segura"
+    },
+    "FindSafeTemperature": {
+        "title": "Encontrar temperatura segura"
+    },
+    "DoGoodMood": {
+        "title": "Melhorar o humor"
+    },
+    "DoSocial": {
+        "title": "Fazer interação social"
+    },
+    "MoveDead": {
+        "title": "Dispor de criaturas mortas"
+    },
+    "EquipSpacesuit": {
+        "title": "Equipar traje espacial"
+    },
+    "ForceMove": {
+        "title": "Forçar movimento"
+    },
+    "Equip": {
+        "title": "Equipar"
+    },
+    "UnEquip": {
+        "title": "Soltar"
+    },
+    "Strip": {
+        "title": "Despir criatura"
+    },
+    "DestroyAsset": {
+        "title": "Destruir item"
+    },
+    "UseEntertainment": {
+        "title": "Usar entretenimento"
+    },
+    "SitAtChair": {
+        "title": "Sentar na cadeira"
+    },
+    "HealPawn": {
+        "title": "Curar paciente ou animal"
+    },
+    "FeedPatient": {
+        "title": "Alimentar paciente"
+    },
+    "HydratePatient": {
+        "title": "Hidratar paciente"
+    },
+    "FeedAnimal": {
+        "title": "Alimentar animal"
+    },
+    "HydrateAnimal": {
+        "title": "Hidratar animal"
+    },
+    "Butcher": {
+        "title": "Abater criatura"
+    },
+    "Flee": {
+        "title": "Fugir"
+    },
+    "SowPlant": {
+        "title": "Semear planta"
+    },
+    "HarvestPlant": {
+        "title": "Colher planta"
+    },
+    "HarvestBrew": {
+        "title": "Colher bebida fermentada"
+    },
+    "SitOnCaptainsChair": {
+        "title": "Sentar na cadeira do capitão."
+    },
+    "Breed": {
+        "title": "Procriar"
+    }
+}
+

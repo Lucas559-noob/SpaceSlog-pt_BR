@@ -1,0 +1,31 @@
+{
+	"PowerMenu": {
+		"title": "Menu de Energia",
+		"description": "Tudo relacionado à geração e distribuição de energia em sua nave pode ser encontrado no menu [color=PURPLE]Energia[/color].\n\nMuitos itens requerem energia para operar, que pode ser fornecida por um [color=KHAKI]Gerador de Energia[/color].\nCertifique-se de que cada item esteja conectado ao gerador através de [color=KHAKI]Cabos de Energia[/color].\n\nUm [color=KHAKI]Cabo de Energia[/color] [color=RED]vermelho[/color] indica a conexão com cada máquina, então certifique-se de que todos os [color=KHAKI]Cabos de Energia[/color] [color=RED]vermelhos[/color] estejam conectados."
+	},
+	"AtmosphereMenu": {
+		"title": "Menu de Atmosfera",
+		"description": "O menu [color=PURPLE]Atmosfera[/color] contém todos os itens necessários para criar e manter uma atmosfera respirável em sua nave.\n\nSua nave deve ser à prova d'água e manter a atmosfera correta.\n\nLembre-se, quaisquer brechas, incluindo portas abertas, farão com que a atmosfera vaze.\n\nMuitos tipos de construção listados aqui requerem [color=KHAKI]Dutos Atmosféricos[/color] para serem conectados. Isso pode ser feito colocando [color=KHAKI]Dutos Atmosféricos[/color] entre os pontos de terminação [color=RED]vermelhos[/color] nas construções."
+	},
+    "ShipSystemsMenu": {
+		"title": "Menu de Sistemas da Nave",
+		"description": "O menu [color=PURPLE]Sistemas da Nave[/color] ajuda você a ver rapidamente se sua nave está operando suavemente.\n\nVocê pode visualizar várias informações sobre sua nave e alterar seu nome registrado, que é usado para se identificar através do [i]Slog[/i].\n\nPressionar [color=PURPLE]Alerta Vermelho[/color] ordenará que toda a tripulação volte para a nave e permaneça lá até que o alerta seja desativado.\n\nSeu [color=PURPLE]Medidor de Combustível[/color] também está localizado neste menu."
+    },
+    "CrewMenu": {
+		"title": "Menu de Tripulação",
+		"description": "Toda a tripulação da sua nave, juntamente com uma visão geral rápida de cada um, está listada no menu [color=PURPLE]Tripulação[/color].\n\nAqui você pode visualizar e atribuir [color=KHAKI]funções[/color], criar [color=KHAKI]funções[/color] personalizadas e atribuir teclas de atalho para essas [color=KHAKI]funções[/color]. Você também pode definir [color=KHAKI]horários[/color] e [color=KHAKI]trabalhos[/color].\n\nSelecionar um membro da tripulação abrirá seu menu individual, onde você pode visualizar informações mais detalhadas sobre ele."
+    },
+    "Schedules": {
+		"title": "Horários",
+		"description": "Você pode querer definir [color=KHAKI]horários[/color] para cada membro da tripulação para garantir que eles durmam e trabalhem em horários apropriados. Isso pode ser feito acessando o painel [color=PURPLE]Horários[/color] dentro do menu [color=PURPLE]Tripulação[/color]. Você pode então selecionar o botão [color=PURPLE]Horário[/color] desejado e preencher os intervalos de tempo na grade de horário.\n\nSua tripulação tentará seguir seu [color=KHAKI]horário[/color] atribuído, mas priorizará tarefas de autopreservação, como comer, beber e dormir quando necessário."
+    },
+    "Jobs": {
+		"title": "Trabalhos",
+		"description": "Você pode querer dar a cada membro da tripulação prioridades de trabalho específicas para garantir que eles tentem realizar essas tarefas primeiro. Isso pode ser feito acessando o painel [color=PURPLE]Trabalhos[/color] dentro do menu [color=PURPLE]Tripulação[/color].\n\n[color=LIGHT_GREEN]Clique[/color] em cada caixa para ajustar a prioridade. Passar o mouse sobre o ícone acima mostrará quais trabalhos correspondem a cada prioridade.\n\nUm número menor indica uma prioridade mais alta."
+    },
+    "Stockpiles": {
+		"title": "Depósitos",
+		"description": "Você pode ajustar a prioridade de cada [color=KHAKI]depósito[/color] dentro do próprio menu [color=PURPLE]Depósito[/color]. Isso diz à sua tripulação qual [color=KHAKI]depósito[/color] deve ser preenchido primeiro.\n\nVocê também pode definir restrições sobre quais itens podem ser armazenados em cada [color=KHAKI]depósito[/color] selecionando as categorias desejadas no menu [color=PURPLE]Depósito[/color]."
+    }
+}
+

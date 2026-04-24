@@ -1,0 +1,19 @@
+{
+	"Human": {
+		"title": "Osso",
+        "description": "Feito de tecido conjuntivo e células ósseas especializadas."
+	},
+    "Serpent": {
+		"title": "Osso",
+		"description": "Fino mas flexível."
+	},
+    "Rodent": {
+		"title": "Osso",
+		"description": "Fino e frágil."
+	},
+    "Bird": {
+		"title": "Osso",
+		"description": "Fino e frágil."
+	}
+}
+

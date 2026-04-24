@@ -1,0 +1,103 @@
+{
+    "SleepingSpot": {
+        "title": "Local para dormir",
+        "description": "Um local de resgate ou dormir simples e desconfortável para um humanoide."
+    },
+    "SleepingBag": {
+        "title": "Saco de dormir",
+        "description": "Um lugar quente mas relativamente desconfortável para um humanoide dormir."
+    },
+    "SingleBed": {
+        "title": "Cama de solteiro",
+        "description": "Um lugar quente e confortável para um humanoide dormir."
+    },
+    "DoubleBed": {
+        "title": "Cama de casal",
+        "description": "Um lugar quente e confortável para dois humanóides dormirem, lado a lado."
+    },
+    "SmallAnimalBed": {
+        "title": "Cama de animal",
+        "description": "Um lugar confortável para um pequeno animal dormir."
+    },
+    "HospitalBed": {
+        "title": "Cama hospitalar simples",
+        "description": "Um lugar quente e confortável para um humanoide descansar e se recuperar de ferimentos/doenças."
+    },
+    "CryoPod": {
+        "title": "Cápsula de criogenia",
+        "description": "Congela criaturas criogenicamente, impedindo o envelhecimento enquanto este equipamento tiver energia."
+    },
+    "SmallTable": {
+        "title": "Mesa pequena",
+        "description": "Uma mesa pequena e relativamente confortável para comer. Uma grande melhoria em relação a comer no chão."
+    },
+    "MediumTable": {
+        "title": "Mesa média",
+        "description": "Uma mesa relativamente confortável para comer. Uma grande melhoria em relação a comer no chão."
+    },
+    "LargeTable": {
+        "title": "Mesa grande",
+        "description": "Uma mesa grande e relativamente confortável para comer. Uma grande melhoria em relação a comer no chão."
+    },
+    "BedSideTable": {
+        "title": "Mesa de cabeceira",
+        "description": "Uma pequena mesa de cabeceira. Pode ser colocada nos quartos da tripulação para melhorar a qualidade do quarto."
+    },
+    "Dresser": {
+        "title": "Cômoda",
+        "description": "Uma cômoda que pode ser colocada nos quartos da tripulação para melhorar a qualidade do quarto."
+    },
+    "Chair": {
+        "title": "Cadeira",
+        "description": "Um lugar relativamente confortável para sentar."
+    },
+    "Stool": {
+        "title": "Banquinho",
+        "description": "Marginalmente melhor que sentar no chão."
+    },
+    "CaptainsChair": {
+        "title": "Cadeira do capitão",
+        "description": "Uma cadeira adequada para o Capitão da Nave."
+    },
+    "CommandChair": {
+        "title": "Cadeira de comando",
+        "description": "Uma cadeira comumente usada na ponte de uma nave."
+    },
+    "FloorLight": {
+        "title": "Luz de chão",
+        "description": "Uma luz padrão embutida no chão."
+    },
+    "StandingLight": {
+        "title": "Luz em pé",
+        "description": "Uma luz padrão que fica em pé no chão."
+    },
+    "AlarmFloorLight": {
+        "title": "Luz de alarme de chão",
+        "description": "Uma luz vermelha piscando embutida no chão."
+    },
+    "ConcreteFloor": {
+		"title": "Piso de concreto",
+		"description": "Um piso extremamente pesado usado em naves grandes. Deve ser colocado em cima de piso estrutural."
+    },
+    "CarpetFloor": {
+		"title": "Carpete",
+		"description": "Um carpete de luxo muito confortável. Deve ser colocado em cima de piso estrutural."
+    },
+    "WoodFloor": {
+		"title": "Piso de madeira",
+		"description": "Um tipo de piso confortável feito de madeira. Deve ser colocado em cima de piso estrutural."
+    },
+    "Door": {
+		"title": "Porta",
+		"description": "Uma porta manual básica. Vazará atmosfera quando em contato direto com o espaço externo."
+    },
+    "AutoDoor": {
+		"title": "Porta Automática",
+		"description": "Uma porta automática elétrica que pode ser usada sem energia, mas será mais lenta para operar. Vazará atmosfera quando em contato direto com o espaço externo."
+    },
+    "ArmouredDoor": {
+        "title": "Porta blindada",
+        "description": "Uma porta automática e reforçada elétrica que pode ser usada sem energia, mas será mais lenta para operar. Vazará atmosfera quando em contato direto com o espaço externo."
+}
+}
+

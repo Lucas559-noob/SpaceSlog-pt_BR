@@ -1,0 +1,43 @@
+{
+    "Ducting": {
+        "title": "Dutos atmosféricos",
+        "description": "Um conduíte projetado para direcionar o movimento de ar de/para outros componentes atmosféricos, como um ventilador de ar e Suporte de Vida."
+    },
+    "AirVent": {
+        "title": "Ventilador de ar",
+        "description": "Fornece gases para uma sala a partir de um suprimento de ar conectado. Deve ser conectado a um suprimento de ar através de dutos."
+    },
+    "HeatVent": {
+        "title": "Ventilação radiador",
+        "description": "Descarrega uma pequena quantidade de calor de qualquer sala conectada através de dutos e ventiladores de ar como energia infravermelha."
+    },
+    "LargeHeatVent": {
+        "title": "Ventilação radiador grande",
+        "description": "Descarrega uma grande quantidade de calor de qualquer sala conectada através de dutos e ventiladores de ar como energia infravermelha."
+    },
+    "TransferVent": {
+        "title": "Ventilador de transferência",
+        "description": "Permite que o ar flua entre duas salas adjacentes, igualizando as temperaturas e gases. Deve ser colocado no topo da Estrutura da Nave."
+    },
+    "LifeSupport": {
+        "title": "Suporte de vida",
+        "description": "Fornece uma pequena quantidade de oxigênio, além de filtrar e limpar gases perigosos e CO2 do ar. Deve ter um ventilador de ar conectado através de dutos para funcionar."
+    },
+    "OxygenGenerator": {
+        "title": "Gerador de oxigênio",
+        "description": "Gera uma pequena quantidade de oxigênio. Deve ter um ventilador de ar conectado através de dutos para funcionar."
+    },
+    "LargeOxygenGenerator": {
+        "title": "Gerador de oxigênio grande",
+        "description": "Gera uma grande quantidade de oxigênio. Deve ter um ventilador de ar conectado através de dutos para funcionar."
+    },
+    "GasScrubber": {
+        "title": "Lavador de gases",
+        "description": "Filtra e limpa gases perigosos e CO2 da atmosfera. Deve ter um ventilador de ar conectado através de dutos para funcionar."
+    },
+    "OxygenTank": {
+        "title": "Tanque de oxigênio",
+        "description": "Armazena uma pequena quantidade de oxigênio de qualquer fornecedor de oxigênio conectado. Deve ser conectado através de dutos para funcionar."
+    }
+}
+

@@ -1,0 +1,99 @@
+{
+	"Engineer" : {
+		"title" : "Engenheiro",
+		"description" : "{pawn_name} não queria particularmente ser um engenheiro, embora uma oportunidade tenha sido apresentada para ganhar a vida, então a oportunidade foi aproveitada."
+	},
+	"Doctor" : {
+		"title" : "Médico",
+		"description" : "{pawn_name} passou vários anos na faculdade de medicina e depois serviu em uma nave colônia por um tempo. Agora está à deriva oferecendo seus serviços para quem precisa."
+	},
+	"Marine" : {
+		"title" : "Fuzileiro",
+		"description" : "{pawn_name} sabia desde jovem que queria servir no exército. Ver partes do universo que outros não viam provavelmente foi uma das maiores atrações."
+	},
+	"Labourer" : {
+		"title" : "Trabalhador",
+		"description" : "Crescer em um planeta pobre da borda é difícil e educação é escassa. {pawn_name} foi um dos sortudos que conseguiu encontrar uma carreira como trabalhador. Não é uma vida glamorosa, mas pelo menos é uma vida."
+	},
+	"Pilot" : {
+		"title" : "Piloto",
+		"description" : "Entrar na escola de pilotagem era tudo o que {pawn_name} queria fazer. Quem diria que {pawn_pronoun} poderia ser realmente bom nisso."
+	},
+	"Miner" : {
+		"title" : "Minerador",
+		"description" : "Mineração no espaço profundo é extremamente perigosa e {pawn_name} teve sua parcela justa de perigo no passado."
+	},
+	"AnimalHandler" : {
+		"title" : "Tratador de Animais",
+		"description" : "{pawn_name} cresceu em uma nave colônia que tinha uma abundância de animais. Enquanto outros tentavam matá-los como pragas, {pawn_name} os resgatava e cuidava deles quando estavam doentes ou feridos. Às vezes até ensinava habilidades ou truques."
+	},
+	"Scientist" : {
+		"title" : "Cientista",
+		"description" : "Cientistas são necessários agora mais do que nunca. {pawn_name} aproveitou essa necessidade e conseguiu transformá-la em uma carreira muito lucrativa."
+	},
+	"Grower" : {
+		"title" : "Agricultor",
+		"description" : "Passar muito tempo com plantas e coisas orgânicas tem sido a paixão de {pawn_name} desde muito jovem."
+	},
+	"Retired" : {
+		"title" : "Aposentado",
+		"description" : "{pawn_name} ganhou na loteria da vida e conseguiu envelhecer, agora está vivendo uma merecida aposentadoria."
+	},
+	"Student" : {
+		"title" : "Estudante",
+		"description" : "{pawn_name} ainda está estudando na esperança de melhorar a si mesmo, embora ninguém realmente saiba para quê, e provavelmente nem {pawn_pronoun} sabe."
+	},
+	"Professor" : {
+		"title" : "Professor",
+		"description" : "Passando muito tempo na educação e se destacando, {pawn_name} conquistou o título de Professor."
+	},
+	"Merchant" : {
+		"title" : "Comerciante",
+		"description" : "{pawn_name} cresceu de uma longa linhagem de comerciantes e decidiu continuar nos passos de seus antepassados."
+	},
+	"Pirate" : {
+		"title" : "Pirata",
+		"description" : "{pawn_name} vive a vida de um Pirata, salvando qualquer coisa que possa, ganhando dinheiro onde puder."
+	},
+	"Slave" : {
+		"title" : "Escravo",
+		"description" : "{pawn_name} viveu uma vida de pobreza, sendo vendido ao melhor comprador e sendo pedido para fazer todos os tipos de coisas. Não se sabe o que {pawn_pronoun} teve que suportar."
+	},
+	"Slaver" : {
+		"title" : "Escravista",
+		"description" : "{pawn_name} geralmente viaja pelo slog em busca de pessoas pobres para escravizar e vender, ou apenas aquelas infelizes o bastante para estar no lugar errado na hora errada."
+	},
+	"BountyHunter" : {
+		"title" : "Caçador de Recompensas",
+		"description" : "{pawn_name} vive a vida de um assassino e caçará qualquer coisa ou qualquer um pelo preço certo. Não é um trabalho para todos, mas paga bem."
+	},
+	"OffworldDetective" : {
+		"title" : "Detetive Interplanetário",
+		"description" : "Como órfão, {pawn_name} foi criado em naves colônia. Tentar sobreviver jovem significava se meter em muitas encrencas. Foi isso que o fez decidir que 'ser o polícia era melhor que levar bronca'."
+	},
+	"PlanetDrifter" : {
+		"title" : "Vagabundo Planetário",
+		"description" : "Ser um Vagabundo Planetário é menos um trabalho e mais uma forma de vida. {pawn_name} vagueia de planeta em planeta pegando qualquer trabalho que puder. Às vezes embarca em uma nave sem nem saber onde termina sua jornada."
+	},
+	"Spacefarer" : {
+		"title" : "Viajante Espacial",
+		"description" : "{pawn_name} viaja pelo slog. Embora isso seja mais um hobby que um trabalho, {pawn_name} provavelmente te faria acreditar diferente."
+	},
+	"Planetologist" : {
+		"title" : "Planetologista",
+		"description" : "{pawn_name} estuda os ecossistemas dos planetas. Criança, {pawn_pronoun} sonhava com todas as pedras estranhas e maravilhosas por aí. Agora {pawn_pronoun} pode vê-las em primeira mão."
+	},
+	"Consor" : {
+		"title" : "Consor",
+		"description" : "Sendo um Consor, {pawn_name} foi treinado desde jovem na arte do relacionamento, que é o entretenimento ou cuidado com os outros, intimamente ou psicologicamente. A maioria dos Consors também tem algum treinamento básico de autodefesa."
+	},
+	"Prisoner" : {
+		"title" : "Prisioneiro",
+		"description" : "Trancado por um crime que afirma não ter cometido, embora seja isso que todos digam."
+	},
+	"Chef" : {
+		"title" : "Chef",
+		"description" : "{pawn_name} sempre teve paixão por cozinhar e experimentar combinar diferentes sabores, sempre buscando fazer o prato perfeito."
+	}
+}
+

@@ -1,0 +1,39 @@
+{
+    "HighBurn": {
+        "title": "Explorando o Universo",
+        "description": "Para explorar, você precisará entrar em [color=KHAKI]alta velocidade[/color]. Esta é uma manobra de alta força G que impulsionará sua nave para frente.\n\nVocê pode conseguir isso ligando seus [color=KHAKI]propulsores[/color] e esperando que o [color=PURPLE]MEDIDOR DE VELOCIDADE[/color] (localizado no menu [color=PURPLE]Sistemas da Nave[/color]) se encha.\n\nUma vez que o medidor esteja cheio, você pode pressionar o botão [color=PURPLE]Acelerar[/color] localizado próximo ao [color=PURPLE]MEDIDOR DE VELOCIDADE[/color].\n\nTenha em mente que quanto mais pesar sua nave, mais tempo levará para encher o [color=PURPLE]MEDIDOR DE VELOCIDADE[/color], necessitando instalar mais [color=KHAKI]propulsores[/color]."
+    },
+    "Rooms": {
+        "title": "Salas",
+        "description": "Selecione uma sala [color=LIGHT_GREEN]clicando duas vezes[/color] ou {alternate_select} + {select} em qualquer ladrilho do piso dentro dela.\n\nUma vez selecionada, um menu aparecerá onde você pode mudar o nome da sala e ver vários detalhes sobre ela.\n\nÉ neste menu que você também pode designar o tipo da sala. Isso será necessário para definir salas específicas para sua tripulação dormir, além de várias outras funções."
+    },
+    "BrewingAtABarrelStep1": {
+		"title": "Preparando Comidas e Bebidas",
+        "description": "[color=KHAKI]Barris[/color] podem ser usados para preparar uma variedade de bebidas e comidas.\n\nPara usar um [color=KHAKI]Barril[/color], pressione o botão [img=0] no menu, então selecione [color=PURPLE]Preparar Ordens[/color]. Isso abrirá um novo menu onde você pode selecionar das receitas disponíveis, aumentando ou diminuindo a quantidade que você precisa.\n\nUma vez satisfeito com sua seleção, pressione [color=PURPLE]Enviar ordens[/color] para começar a produção.\n\nCertifique-se de que seu [color=KHAKI]Barril[/color] não esteja proibido para que sua tripulação possa interagir com ele."
+	},
+   "TransponderStep1":{
+        "title": "Transponder",
+        "description": "O [color=KHAKI]Transponder[/color] é o coração de toda nave, e na maioria dos setores você é obrigado a mantê-lo energizado e totalmente operacional. Sem um sinal de [color=KHAKI]Transponder[/color] ativo, outras naves não conseguirão detectar ou localizar você.\n\nCada [color=KHAKI]Transponder[/color] contém uma bateria de reserva que se ativa automaticamente sempre que seu circuito primário perde energia. Tenha em mente que isso é limitado a apenas [color=YELLOW]90w[/color] de energia conectada. Normalmente suficiente para energizar a si mesmo e um [color=KHAKI]Console de Comunicação[/color].\n\nA construção de qualquer coisa além de [color=KHAKI]Estrutura de Nave[/color] ou [color=KHAKI]Revestimento de Piso[/color] é proibida até que um [color=KHAKI]Transponder[/color] tenha sido instalado."
+    },
+    "PawnsStep1":{
+        "title": "Tripulação",
+        "description": "Para emitir um comando forçado a um membro da [color=KHAKI]tripulação[/color], ele deve primeiro ser alternado para aceitar comandos pressionando {select} no ícone [color=PURPLE]comando[/color] [img=0] no menu [color=PURPLE]personagem[/color]. Você pode então usar os menus [color=PURPLE]contexto[/color] (acessados via {action}) para emitir ordens. Membros da [color=KHAKI]tripulação[/color] não realizarão mais tarefas diárias normais enquanto a alternância de comando estiver ativa.\n\nVocê pode percorrer sua [color=KHAKI]tripulação[/color] usando {cycle_pawns_forward} e {cycle_pawns_backward}."
+    },
+    "HuntingStep1":{
+        "title": "Caça",
+        "description": "Você pode obter comida e outros recursos caçando criaturas.\n\nPara fazer isso, selecione o ícone [color=PURPLE]Caça[/color] [img=0] no menu [color=PURPLE]Ordens[/color]. Então [color=LIGHT_GREEN]clique e arraste[/color] sobre uma [color=KHAKI]criatura[/color] para designá-la para caça.\n\nVocê precisará ter um membro da [color=KHAKI]tripulação[/color] com uma arma de longo alcance e o tipo de trabalho [color=PURPLE]Caça[/color] habilitado para que eles possam realizar a tarefa."
+    },
+    "GrowingFoodStep1":{
+        "title": "Cultivando Comida",
+        "description": "Se você tiver as [color=KHAKI]Sementes[/color] corretas (compráveis de uma nave), você pode cultivar comida em uma [color=KHAKI]Aeroponia[/color]. Você precisa garantir que tenha oxigênio suficiente na sala onde está cultivando, e a [color=KHAKI]Aeroponia[/color] precisa estar energizada e não proibida.\n\nUma vez cultivada, um de seus [color=KHAKI]membros da tripulação[/color] colherá a plantação.\n\nQuanto mais saúde a plantação tiver, maior será o rendimento, incluindo quaisquer sementes recuperadas."
+    },
+    "CombatStep1":{
+        "title": "Combate",
+        "description": "Sua tripulação pode se encontrar em muitas situações de combate. Na maioria das vezes você terá que garantir que sua tripulação seja comandada para emitir comandos de combate."
+    },
+    "SpaceSuits":{
+        "title": "Trajes EVA",
+        "description": "Um traje EVA é necessário para algumas criaturas saírem da nave. Um traje EVA completo consiste em um [color=KHAKI]Capacete[/color] e [color=KHAKI]Traje espacial[/color].\n\nTodos os trajes EVA contêm um tanque de ar que será automaticamente reabastecido com qualquer oxigênio da sala onde estão atualmente."
+    }
+}
+

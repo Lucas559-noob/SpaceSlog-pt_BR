@@ -1,0 +1,31 @@
+{
+    "Birthday": {
+        "title": "Aniversário!",
+        "description": "É hora de celebrar, pois {subject_name} alcança seu {age}º aniversário!"
+    },
+    "Death": {
+        "title": "Morte!",
+        "description": "{subject_name} morreu {reason}"
+    },
+    "Collapsed": {
+        "title": "{subject_name} precisa de resgate.",
+        "description": "{subject_name} desmaiou {reason} e precisa ser resgatado."
+    },
+    "Mobile": {
+        "title": "{subject_name} está móvel.",
+        "description": "{subject_name} está se movendo novamente."
+    },
+    "Fire": {
+        "title": "Fogo",
+        "description": "Começou um incêndio!"
+    },
+    "ShipAttacked": {
+        "title": "Nave atacada.",
+        "description": "Sua nave está sendo atacada!"
+    },
+    "PawnAttacked": {
+        "title": "{subject_name} atacado.",
+        "description": "{subject_name} está sendo atacado!"
+    }
+}
+

@@ -1,0 +1,178 @@
+{
+	"BrainDamage": {
+		"title": "Dano cerebral"
+	},
+	"Haemorrhage": {
+		"title": "Hemorragia",
+		"description": "Este personagem está perdendo sangue. Quanto maior a intensidade da perda de sangue, mais rápido este personagem morrerá. O sangue se recuperará naturalmente assim que a hemorragia for tratada.",
+		"stages": {
+			"Minor": {
+				"title": "Leve"
+			},
+			"Moderate":{
+				"title": "Moderada"
+			},
+			"Major": {
+				"title": "Grave"
+			},
+			"Severe": {
+				"title": "Severa"
+			}
+		}
+	},
+	"Bruise": {
+		"title": "Contusão",
+		"description": "Uma contusão causada por trauma contundente.",
+		"stages": {
+			"Small": {
+				"title": "Pequena"
+			},
+			"Large": {
+				"title": "Grande"
+			}
+		}
+	},
+	"Cut": {
+		"title": "Corte",
+		"description": "Um ferimento causado por um objeto afiado.",
+		"stages": {
+			"Superficial": {
+				"title": "Superficial"
+			},
+			"Small": {
+				"title": "Pequeno"
+			},
+			"Large":{
+				"title": "Grande"
+			}
+		}
+	},
+	"Puncture": {
+		"title": "Perfuração",
+		"description": "Um ferimento causado por um objeto afiado e pontiagudo.",
+		"stages": {
+			"Small": {
+				"title": "Pequena"
+			},
+			"Medium": {
+				"title": "Média"
+			},
+			"Large":{
+				"title": "Grande"
+			}
+		}
+	},
+	"Gunshot": {
+		"title": "Ferimento de bala",
+		"description": "Um ferimento causado por um projétil.",
+		"stages": {
+			"Small": {
+				"title": "Pequeno"
+			},
+			"Medium": {
+				"title": "Médio"
+			},
+			"Large":{
+				"title": "Grande"
+			}
+		}
+	},
+	"Bite": {
+		"title": "Mordida",
+		"description": "Um ferimento de mordida.",
+		"stages": {
+			"Small": {
+				"title": "Pequena"
+			},
+			"Medium": {
+				"title": "Média"
+			},
+			"Large":{
+				"title": "Grande"
+			}
+		}
+	},
+	"Scratch": {
+		"title": "Arranhão",
+		"description": "Um ferimento de arranhão.",
+		"stages": {
+			"Superficial": {
+				"title": "Superficial"
+			},
+			"Small": {
+				"title": "Pequeno"
+			},
+			"Large":{
+				"title": "Grande"
+			}
+		}
+	},
+	"Stab": {
+		"title": "Ferimento de facada",
+		"description": "Um ferimento de facada.",
+		"stages": {
+			"Small": {
+				"title": "Pequeno"
+			},
+			"Medium": {
+				"title": "Médio"
+			},
+			"Large":{
+				"title": "Grande"
+			}
+		}
+	},
+	"Gash": {
+		"title": "Rasgo",
+		"description": "Um ferimento aberto.",
+		"stages": {
+			"Superficial": {
+				"title": "Superficial"
+			},
+			"Shallow": {
+				"title": "Raso"
+			},
+			"Deep":{
+				"title": "Profundo"
+			}
+		}
+	},
+	"Burn": {
+		"title": "Queimadura",
+		"description": "Um ferimento causado pelo calor.",
+		"stages": {
+			"Small": {
+				"title": "Pequena"
+			},
+			"Large":{
+				"title": "Grande"
+			}
+		}
+	},
+	"Fracture": {
+		"title": "Fratura",
+		"description": "Um osso quebrado.",
+		"stages": {
+			"Small": {
+				"title": "Pequena"
+			}
+		}
+	},
+	"Severance": {
+		"title": "Decepamento",
+		"description": "Esta parte do corpo foi decepada."
+	},
+	"Crushed": {
+		"title": "Esmagado",
+		"description": "Esta parte do corpo foi esmagada."
+	},
+	"Destroyed": {
+		"title": "Destruído",
+		"description": "Esta parte do corpo foi destruída."
+	},
+	"Slaughter": {
+		"title": "Fatiado",
+		"description": "Isto foi morto."
+	}
+}
+

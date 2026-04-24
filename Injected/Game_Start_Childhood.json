@@ -1,0 +1,11 @@
+{
+    "Resourceful": {
+        "title": "Engenhosidade",
+		"description": "Como criança, seu capitão era engenhoso e extremamente econômico. Ter pais pobres significava {pawn_pronoun} nunca teve muito ao crescer, então não teve escolha a não ser aprender a se virar. O desperdício nunca era desperdiçado e {pawn_pronoun} sempre encontraria um uso para coisas que outros jogariam fora."
+	},
+	"Wasteful": {
+		"title": "Desperdício",
+		"description": "Como criança, seu capitão era desperdiçador e descuidado com o que quer que {pawn_pronoun} conseguisse obter. Frequentemente esbanjando o pouco que {pawn_pronoun} tinha, aprendendo poucas lições sobre economia ou planejamento. Você não leva nada consigo, então é melhor gastar enquanto pode."
+	}
+}
+

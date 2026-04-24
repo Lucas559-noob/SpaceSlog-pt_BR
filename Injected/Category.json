@@ -1,0 +1,39 @@
+{
+    "Wood": {
+        "title": "Madeira",
+        "description": "Um material orgânico e renovável obtido principalmente de árvores."
+    },
+    "Metal": {
+        "title": "Metal",
+        "description": "Extraído de rochas naturais."
+    },
+    "Mineral": {
+        "title": "Minerais",
+        "description": "Um material inorgânico natural obtido da terra e rocha."
+    },
+    "Fabric": {
+        "title": "Tecido",
+        "description": "Feito de fibras naturais como pele animal ou materiais sintéticos."
+    },
+    "Liquid": {
+        "title": "Líquido",
+        "description": "Um tipo de fluido."
+    },
+    "Solid": {
+        "title": "Sólido",
+        "description": "Um tipo de matéria sólida."
+    },
+    "Medical": {
+        "title": "Médico",
+        "description": "Materiais ou itens usados para fins medicinais."
+    },
+    "Botanical": {
+        "title": "Botânico",
+        "description": "Materiais derivados de plantas."
+    },
+    "Ammunition": {
+        "title": "Munição",
+        "description": "Projéteis usados principalmente para torretas."
+    }
+}
+

@@ -1,0 +1,35 @@
+{
+	"StrandedShipParts": {
+		"title": "Estrutura da Nave Abandonada",
+        "description": "Parte de sua nave foi desconectada da nave principal!\n\nQualquer [color=KHAKI]Estrutura de Nave[/color] ou outros [color=KHAKI]Edifícios[/color] NÃO conectados a qualquer parte da nave principal, serão considerados como desconectados e serão deixados para trás ao entrar em [color=KHAKI]alta velocidade[/color]."
+	},
+	"PlaceFloorLesson": {
+		"title": "Revestimento de Piso",
+        "description": "[color=KHAKI]Revestimento de Piso[/color] só pode ser colocado em cima de [color=KHAKI]Estrutura de Nave[/color]. Certifique-se de ter colocado [color=KHAKI]Estrutura de Nave[/color] suficiente para cobrir a área onde deseja colocar [color=KHAKI]Revestimento de Piso[/color]."
+	},
+	"PlaceHullMountedBuilding": {
+		"title": "Edifícios Montados no Casco",
+		"description": "[color=KHAKI]Edifícios Montados no Casco[/color] devem ser colocados em cima de [color=KHAKI]Estrutura de Nave[/color] ou [color=KHAKI]Armadura do Casco[/color]. Certifique-se de ter colocado [color=KHAKI]Estrutura de Nave[/color] ou [color=KHAKI]Armadura do Casco[/color] suficiente para cobrir a área onde deseja colocar [color=KHAKI]Edifícios Montados no Casco[/color]."
+	},
+	"PlaceInternalDoor": {
+		"title": "Portas Internas",
+		"description": "Qualquer porta interna vazará lentamente atmosfera quando colocada em uma [color=KHAKI]Estrutura de Nave[/color] externa (próxima ao espaço). Use uma [color=KHAKI]Porta de Saída[/color] em vez disso, a menos que planeje encerrar a porta interna dentro de uma sala."
+	},
+    "EnteredHighBurn": {
+        "title": "Alta Velocidade",
+        "description": "Finalmente, você conseguiu entrar em [color=KHAKI]alta velocidade[/color]!\n\nExploradores enviados da Terra-Mãe relatariam como suas expedições eram traiçoeiras e mortais enquanto viajavam e viviam no espaço. Esta era viria a ser conhecida como o [i]SpaceSlog[/i].\n\nAgora é sua vez de seguir seus passos, explorando e documentando o grande desconhecido: o vazio implacável, frio e escuro... o [i]Slog[/i]."
+    },
+    "Exploration": {
+        "title": "Alta Velocidade",
+        "description": "Você deve estar ciente de que sua tripulação não pode sair da nave devido às pressões extremamente altas. Quaisquer reparos externos ou explorações pessoais da tripulação devem ocorrer quando não estiver em [color=KHAKI]alta velocidade[/color].\n\nVocê receberá notificações quando passar por algo interessante, ou pode avistar algo por conta própria. Estas são boas oportunidades para sair da [color=KHAKI]alta velocidade[/color] e explorar.\n\nLembre-se, sair da [color=KHAKI]alta velocidade[/color] o deixa vulnerável enquanto espera que seu medidor de velocidade se recarregue novamente."
+    },
+    "HarshSpace": {
+        "title": "Alta Velocidade",
+        "description": "O espaço é hostil e impiedoso, então esteja preparado para perder muitos membros da tripulação, ou até mesmo sua nave inteira.\n\nQuanto mais longe você viajar e explorar, mais do desconhecido você descobrirá.\n\nBoa sorte!"
+    },
+    "Breach": {
+        "title": "Violações",
+        "description": "Sua nave foi violada! Qualquer ladrilho violado causará vazamento de atmosfera de quaisquer salas adjacentes.\n\nVocê precisará rapidamente reparar a área construindo [color=KHAKI]Estrutura de Nave[/color] adicional sobre a violação.\n\nNote que se você tiver [color=PURPLE]Alerta Preto[/color] ativado, sua tripulação não poderá interagir com os ladrilhos violados."
+    }
+}
+

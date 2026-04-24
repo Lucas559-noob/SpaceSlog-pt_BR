@@ -1,0 +1,15 @@
+{
+    "None": {
+        "title": "Sem atmosfera",
+        "description": "Não há atmosfera aqui. Isso significa que há muito pouca pressão ou gases, se houver algum."
+    },
+    "Empty": {
+        "title": "Atmosfera vazia",
+        "description": "Você deve preencher esta atmosfera com seus próprios gases."
+    },
+    "EarthLike": {
+        "title": "Semelhante à Terra",
+        "description": "Esta atmosfera tem propriedades semelhantes às da Terra."
+    }
+}
+

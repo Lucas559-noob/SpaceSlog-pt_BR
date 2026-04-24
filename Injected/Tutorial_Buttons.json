@@ -1,0 +1,11 @@
+{
+	"EnableTutorial": {
+		"title": "Ativar tutorial",
+        "description": "Ative o tutorial interativo que ajudará a guiá-lo pelos fundamentos do jogo. Altamente recomendado para novos jogadores.\n\nA ajuda não interativa ainda estará disponível."
+	},
+	"SkipTutorial": {
+		"title": "Pular tutorial",
+        "description": "Pule o tutorial interativo. Não recomendado para novos jogadores.\n\nA ajuda não interativa ainda estará disponível."
+	}
+}
+

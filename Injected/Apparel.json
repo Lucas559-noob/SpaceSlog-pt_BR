@@ -1,0 +1,35 @@
+{
+	"SpaceSuit": {
+		"title": "Traje espacial",
+		"description": "Parte de um traje EVA (Atividade Extra-Veicular); um capacete também é necessário para funcionalidade completa. Esses trajes têm re-respiradores embutidos que limpam quaisquer gases residuais. Extremamente desconfortáveis para dormir."
+	},
+	"JumpSuit": {
+		"title": "Macacão",
+		"description": "Roupa que cobre a parte superior e inferior do corpo, geralmente para proteger da sujeira e da gordura."
+	},
+	"FlakVest": {
+		"title": "Colete balístico",
+		"description": "Um colete protetor feito usando camadas de fibras de aramida. Projetado para reduzir o impacto de projéteis."
+	},
+	"Jacket": {
+		"title": "Jaqueta",
+		"description": "Uma peça de roupa projetada para cobrir a parte superior do corpo."
+	},
+	"DusterJacket": {
+		"title": "Jaqueta longa",
+		"description": "Uma jaqueta mais longa que cobre quase todo o corpo."
+	},
+	"Jeans": {
+		"title": "Calça jeans",
+		"description": "Roupa confortável que cobre a parte inferior do corpo."
+	},
+	"Shirt": {
+		"title": "Camisa",
+		"description": "Roupa confortável e leve que cobre a parte superior do corpo."
+	},
+	"CombatShirt": {
+		"title": "Camisa de combate",
+		"description": "Roupa resistente que cobre a parte superior do corpo."
+	}
+}
+

@@ -1,0 +1,35 @@
+{
+	"Gladius": {
+		"title": "Gladius",
+		"description": "Uma espada curta usada principalmente para esfaquear em combate corpo a corpo. O design é antigo, mas ainda eficaz."
+	},
+	"Sword": {
+		"title": "Espada",
+		"description": "Uma espada comum usada para cortar em combate corpo a corpo. O peso e o fio afiado a tornam uma excelente escolha para separar membros e fatiar seus inimigos."
+	},
+	"Knife": {
+		"title": "Faca",
+		"description": "Uma pequena faca usada para proteção pessoal. Ainda é capaz de causar uma quantidade razoável de dano, mesmo pelo seu tamanho."
+	},
+	"Bat": {
+		"title": "Taco",
+		"description": "Um taco originalmente projetado para esportes, mas faz uma excelente arma. Do tamanho e peso certos para balançar, o que pode causar grandes contusões e ossos quebrados."
+	},
+    "RoundShield": {
+		"title": "Escudo redondo",
+		"description": "Um escudo redondo resistente usado para bloquear ataques, mas também pode ser usado para bater nos inimigos."
+	},
+	"Hatchet": {
+		"title": "Machadinha",
+		"description": "Um machado pequeno, simples e leve de uma mão. Ideal para cortar rapidamente os inimigos."
+	},
+	"Spear": {
+		"title": "Lança",
+		"description": "Uma longa arma de haste equilibrada de duas mãos. Usada empurrando a ponta afiada contra seus oponentes."
+	},
+	"BattleAxe": {
+		"title": "Machado de Batalha",
+		"description": "Um machado grande e pesado de duas mãos, que requer um golpe firme para empunhar. Lento para balançar, mas capaz de causar grandes danos cortantes."
+	}
+}
+

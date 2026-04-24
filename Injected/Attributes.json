@@ -1,0 +1,19 @@
+{
+    "WorkSpeedModifier": {
+        "title": "Modificador de velocidade de trabalho",
+        "description": "Ajusta a velocidade com que esta criatura pode realizar tarefas relacionadas ao trabalho."
+    },
+    "LearningModifier": {
+        "title": "Modificador de aprendizado",
+        "description": "Ajusta a quantidade de experiência ganha."
+    },
+    "PainThresholdModifier": {
+        "title": "Modificador de limite de dor",
+        "description": "Ajusta o ponto em que um personagem desmaiará de dor."
+    },
+    "BribePriceModifier": {
+        "title": "Modificador de preço de suborno",
+        "description": "Ajusta quantas moedas são necessárias para subornar alguém."
+    }
+}
+

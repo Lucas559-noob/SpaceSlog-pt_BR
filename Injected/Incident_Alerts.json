@@ -1,0 +1,23 @@
+{
+    "PassingShipDroppedOffCrewman": {
+        "title": "Um tripulante foi deixado para trás.",
+        "description": "{ship_name} da {faction_name} deixou o tripulante {subject_name} para ajudar você."
+    },
+    "HostileCreaturesEnteredSector": {
+        "title": "Criaturas hostis entraram neste setor.",
+        "description": "{pawn} hostis foram detectados entrando neste setor. Esteja preparado para um ataque iminente!"
+    },
+    "Infestation": {
+        "title": "Infestação.",
+        "description": "{pawn} foram avistados! Eles poderiam ter se escondido em qualquer carga que subiu a bordo recentemente. Felizmente eles não são agressivos a menos que provocados, embora, se deixados sozinhos, possam começar a consumir seus suprimentos."
+    },
+    "MayDayPawn": {
+        "title": "Mayday!",
+        "description": "Um sinal de socorro foi recebido através do seu console de comunicações. O remetente, apresentando-se como {pawn}, relata ter sido deixado para trás e abandonado por sua tripulação. Eles estão solicitando resgate imediato.\n\nVocê pode escolher sair do modo de alta velocidade e ajudá-los, ou ignorar o sinal, embora fazer isso quase certamente resultará em sua morte."
+    },
+    "HostileSwarm": {
+        "title": "Enxame hostil",
+        "description": "Um enxame hostil de {amount} {pawn}s foi detectado nas proximidades e estará aqui dentro de aproximadamente {time} horas. Devemos partir imediatamente ou nos preparar para o combate."
+    }
+}
+

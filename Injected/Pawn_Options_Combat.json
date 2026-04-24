@@ -1,0 +1,30 @@
+{
+    "ForceShoot": {
+        "title": "Forçar disparo"
+    },
+    "FollowAndMelee": {
+        "title": "Seguir e usar corpo a corpo"
+    },
+    "FinishWithMeleeWeapon": {
+        "title": "Finalizar com arma corpo a corpo"
+    },
+    "FollowAndShoot": {
+        "title": "Seguir e disparar"
+    },
+    "Hunting": {
+        "title": "Caçar criaturas"
+    },
+    "EnemyRestrain": {
+        "title": "Conter inimigo"
+    },
+    "Restrain": {
+        "title": "Conter"
+    },
+    "FinishOffNoWeapon": {
+        "title": "Finalizar criatura"
+    },
+    "Slaughter": {
+        "title": "Abater animal"
+    }
+}
+

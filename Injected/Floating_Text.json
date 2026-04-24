@@ -1,0 +1,27 @@
+{
+    "LevelUp": {
+        "title": "Subiu de Nível!"
+    },
+    "LevelDown": {
+        "title": "Desceu de Nível!"
+    },
+    "Miss": {
+        "title": "Errou"
+    },
+    "CriticalHit": {
+        "title": "Acerto Crítico!"
+    },
+    "Headshot": {
+        "title": "Tiro na Cabeça!"
+    },
+    "Reloading": {
+        "title": "Recarregando"
+    },
+    "Blocked": {
+        "title": "Bloqueado"
+    },
+    "Healed": {
+        "title": "Ferimentos curados"
+    }
+}
+

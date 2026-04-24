@@ -1,0 +1,111 @@
+{
+	"Hypoxaemia": {
+		"title": "Hipoxemia",
+		"description": "Uma condição que ocorre devido à insuficiência de oxigênio no sangue.",
+		"stages": {
+			"Minor": {
+				"title": "Leve"
+			},
+			"Moderate":{
+				"title": "Moderado"
+			},
+			"Major": {
+				"title": "Grave"
+			},
+			"Severe": {
+				"title": "Severo"
+			}
+		}
+	},
+	"Asphyxiation": {
+		"title": "Asfixia",
+		"description": "A morte ocorrerá muito rapidamente se houver sufocamento devido à falta de oxigênio no sangue."
+	},
+	"Malnutrition": {
+		"title": "Desnutrição",
+		"description": "Não consumir alimentos por muito tempo levará à desnutrição. A desnutrição prolongada causará um aumento de dor severa e, eventualmente, a morte.",
+		"stages": {
+			"Minor": {
+				"title": "Leve"
+			},
+			"Moderate":{
+				"title": "Moderado"
+			},
+			"Major": {
+				"title": "Grave"
+			},
+			"Severe": {
+				"title": "Severo"
+			}
+		}
+	},
+	"SpaceVirus": {
+		"title": "Vírus Espacial",
+		"stages": {
+			"Minor": {
+				"title": "Leve"
+			},
+			"Moderate":{
+				"title": "Moderado"
+			},
+			"Major": {
+				"title": "Grave"
+			},
+			"Severe": {
+				"title": "Severo"
+			}
+		}
+	},
+	"Hypovolaemia": {
+		"title": "Hipovolemia",
+		"description": "Esta condição resulta de uma perda significativa de fluidos. Se os fluidos não forem repostos em breve, espere uma perda acentuada de consciência e, eventualmente, a morte.",
+		"stages": {
+			"Minor": {
+				"title": "Leve"
+			},
+			"Moderate":{
+				"title": "Moderado"
+			},
+			"Major": {
+				"title": "Grave"
+			},
+			"Severe": {
+				"title": "Severo"
+			}
+		}
+	},
+	"Dementia": {
+		"title": "Demência",
+		"description" : "Manifestação de perda das faculdades mentais.",
+		"stages": {
+			"Mild": {
+				"title": "Leve"
+			},
+			"Moderate":{
+				"title": "Moderado"
+			},
+			"Severe": {
+				"title": "Severo"
+			}
+		}
+	},
+	"Exhaustion": {
+		"title": "Exaustão",
+		"description": "Embora inicialmente leve, a exaustão piorará sem descanso, levando a um risco maior de perda de consciência.",
+		"stages": {
+			"Minor": {
+				"title": "Leve"
+			},
+			"Moderate":{
+				"title": "Moderado"
+			},
+			"Major": {
+				"title": "Grave"
+			},
+			"Severe": {
+				"title": "Severo"
+			}
+		}
+	}
+}
+

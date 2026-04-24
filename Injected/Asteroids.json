@@ -1,0 +1,47 @@
+{
+    "SmallRockAsteroid": {
+        "title": "Asteróide de pedra",
+        "description": "Contém pedra."
+    },
+    "LargeRockAsteroid": {
+        "title": "Asteróide de pedra",
+        "description": "Contém pedra."
+    },
+    "SmallIceAsteroid": {
+        "title": "Asteróide de gelo",
+        "description": "Contém gelo."
+    },
+    "LargeIceAsteroid": {
+        "title": "Asteróide de gelo",
+        "description": "Contém gelo."
+    },
+    "SmallSiliconAsteroid": {
+        "title": "Asteróide de silício",
+        "description": "Contém silício."
+    },
+    "LargeSiliconAsteroid": {
+        "title": "Asteróide de silício",
+        "description": "Contém silício."
+    },
+    "SmallTitaniumAsteroid": {
+        "title": "Asteróide de titânio",
+        "description": "Contém titânio."
+    },
+    "LargeTitaniumAsteroid": {
+        "title": "Asteróide de titânio",
+        "description": "Contém titânio."
+    },
+    "SmallGoldAsteroid": {
+        "title": "Asteróide de ouro",
+        "description": "Contém ouro."
+    },
+    "LargeGoldAsteroid": {
+        "title": "Asteróide de ouro",
+        "description": "Contém ouro."
+    },
+    "LargeDiamondAsteroid": {
+        "title": "Asteróide de diamante",
+        "description": "Contém uma forma rara de diamante."
+    }
+}
+

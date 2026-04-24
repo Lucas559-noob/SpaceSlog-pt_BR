@@ -1,0 +1,159 @@
+{
+	"LowGravity": {
+		"title": "Prefere baixa gravidade",
+		"description": "Ser nascido e criado em uma nave colônia, que é onde {pawn_name} passou a maior parte de {pawn_possessive} vida, significa que {pawn_possessive} ossos e músculos se acostumaram com a gravidade artificial comumente encontrada em naves maiores. Esta gravidade é relativamente fraca, o que significa que {pawn_name} enfrenta mais dificuldades que outros em áreas de alta gravidade."
+	},
+	"HighGravity": {
+		"title": "Prefere alta gravidade",
+		"description": "Anos vivendo em um planeta com uma quantidade maior que o normal de gravidade significou que {pawn_name} agora prefere atmosferas de alta gravidade."
+	},
+	"Gay": {
+		"title": "Gay",
+		"description": "{pawn_name} prefere aqueles do mesmo sexo que si mesmo."
+	},
+	"Bisexual": {
+		"title": "Bissexual",
+		"description": "{pawn_name} é atraído por homens e mulheres."
+	},
+	"Murderous": {
+		"title": "Assassino",
+		"description": "{pawn_name} já foi conhecido por matar outros em ocasiões."
+	},
+	"Ugly": {
+		"title": "Feio",
+		"description": "{pawn_name} é insultante de se olhar."
+	},
+	"Pretty": {
+		"title": "Bonito",
+		"description": "{pawn_name} é naturalmente agradável aos olhos."
+	},
+	"PickPocket": {
+		"title": "Bolso",
+		"description": "{pawn_name} tem um desrespeito geral por qualquer senso de propriedade."
+	},
+	"Claustrophobic": {
+		"title": "Claustrofóbico",
+		"description": "Estar em espaços confinados é extremamente estressante para {pawn_name}."
+	},
+	"SocialButterfly": {
+		"title": "Borboleta social",
+		"description": "{pawn_name} prospera quando está entre outros e não gosta de ser deixado sozinho."
+	},
+	"Reclusive": {
+		"title": "Recluso",
+		"description": "{pawn_name} prefere evitar a companhia de outros."
+	},
+	"Creative": {
+		"title": "Criativo",
+		"description": "{pawn_name} tem bom olho para arte e outras atividades criativas."
+	},
+	"Ambitious": {
+		"title": "Ambicioso",
+		"description": "{pawn_name} tem grandes aspirações para si mesmo.\n\nPrefere ser designado para um cargo de alto escalão."
+	},
+	"Fearless": {
+		"title": "Destemido",
+		"description": "{pawn_name} prefere não recuar de uma luta.\n\nNão fugirá do combate."
+	},
+	"LoudSnorer": {
+		"title": "Roncador alto",
+		"description": "{pawn_name} ronca extremamente alto e provavelmente deveria dormir sozinho para evitar incomodar outros."
+	},
+	"Jealous": {
+		"title": "Ciumento",
+		"description": "{pawn_name} não gosta que outros tenham coisas melhores que si mesmo."
+	},
+	"Unhygienic": {
+		"title": "Antissocial",
+		"description": "{pawn_name} não se importa muito com higiene pessoal.\n\nEspalhará duas vezes mais sujeira que o normal."
+	},
+	"NeatFreak": {
+		"title": "Muito organizado",
+		"description": "{pawn_name} obsessivamente gosta que as coisas estejam arrumadas e limpas."
+	},
+	"Mumbler": {
+		"title": "Murmurador",
+		"description": "{pawn_name} gosta de murmurar para {pawn_reflexive}, embora às vezes na irritação de outros."
+	},
+	"Depressive": {
+		"title": "Depressivo",
+		"description": "{pawn_name} sofre de um distúrbio de personalidade caracterizado por sentimentos de inutilidade, baixa autoestima e falta de alegria.\n\nTem um debuff permanente de humor."
+	},
+	"Chatterbox": {
+		"title": "Tagarela",
+		"description": "{pawn_name} gosta de falar muito, o que algumas pessoas podem achar irritante, mas outras podem achar reconfortante."
+	},
+	"Earther": {
+		"title": "Terrestre",
+		"description": "{pawn_name} prefere viver a vida em um planeta."
+	},
+	"Spacer": {
+		"title": "Espacial",
+		"description": "{pawn_name} prefere viver a vida na vastidão do espaço."
+	},
+	"Lazy": {
+		"title": "Preguiçoso",
+		"description": "{pawn_name} geralmente trabalha mais devagar que outros e tende a querer dormir mais."
+	},
+	"HardWorker": {
+		"title": "Trabalhador duro",
+		"description": "{pawn_name} acredita em trabalho duro e gosta de trabalhar mais rápido que outros."
+	},
+	"Nervous": {
+		"title": "Nervoso",
+		"description": "{pawn_name} tem uma tendência de deixar {pawn_possessive} nervos interferirem, frequentemente causando resultados indesejados."
+	},
+	"Tinkerer": {
+		"title": "Mexeriqueiro",
+		"description": "Para melhor ou pior, {pawn_pronoun} gosta de mexer com coisas."
+	},
+	"Greedy": {
+		"title": "Ganancioso",
+		"description": "{pawn_name} sempre quer mais que todos os outros.\n\nTem uma chance maior de comer."
+	},
+	"Creepy": {
+		"title": "Assustador",
+		"description": "{pawn_name} tende a fazer aqueles ao redor se sentirem desconfortáveis."
+	},
+	"HighlyStrung": {
+		"title": "Altamente nervoso",
+		"description": "{pawn_name} reage rapidamente às mudanças de humor.\n\nAs mudanças de moral serão mais rápidas que o normal."
+	},
+	"Simple": {
+		"title": "Simples",
+		"description": "O que {pawn_name} falta em inteligência, compensa em felicidade.\n\nTem um buff permanente de humor."
+	},
+	"QuickLearner": {
+		"title": "Aprendiz rápido",
+		"description": "{pawn_name} tem uma habilidade natural de aprender rapidamente."
+	},
+	"HighPainThreshold": {
+		"title": "Alto limiar de dor",
+		"description": "{pawn_name} tem um alto limiar para dor."
+	},
+	"LowPainThreshold": {
+		"title": "Baixo limiar de dor",
+		"description": "{pawn_name} tem um baixo limiar para dor."
+	},
+	"Cannibal": {
+		"title": "Canibal",
+		"description": "{pawn_name} prefere comer carne de sua própria espécie.\n\nNão terá pensamentos ruins por comer aqueles da mesma espécie."
+	},
+	"Persuasive": {
+		"title": "Persuasivo",
+		"description": "{pawn_name} é um excelente negociador e tem uma habilidade natural de influenciar outros."
+	},
+	"Pushover": {
+		"title": "Fraco",
+		"description": "{pawn_name} acha difícil se afirmar, caindo facilmente às demandas de outros."
+	},
+	"Nyctophobia": {
+		"title": "Nictofobia",
+		"description": "{pawn_name} tem medo do escuro."
+	},
+	"Nyctophilia": {
+		"title": "Nictofilia",
+		"description": "{pawn_name} tem amor pelo escuro."
+	}
+}
+

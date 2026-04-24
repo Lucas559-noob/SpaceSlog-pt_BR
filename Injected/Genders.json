@@ -1,0 +1,19 @@
+{
+	"Male": {
+		"title": "masculino",
+		"description": "Possui órgãos reprodutivos masculinos."
+	},
+	"Female": {
+		"title": "feminino",
+		"description": "Possui órgãos reprodutivos femininos."
+	},
+	"Neutral": {
+		"title": "neutro",
+		"description": "Não possui órgãos reprodutivos masculinos ou femininos."
+	},
+	"Hermaphrodite": {
+		"title": "hermafrodita",
+		"description": "Possui órgãos reprodutivos masculinos e femininos."
+	}
+}
+

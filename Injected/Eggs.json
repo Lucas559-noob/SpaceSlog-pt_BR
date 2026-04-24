@@ -1,0 +1,15 @@
+{
+    "FertilisedSpacewormEggs": {
+        "title": "Ovos de verme espacial (fertilizados)",
+        "description": "Os ovos de Verme Espacial agora são uma dieta básica para humanos, nojentos mas nutritivos. Podem eclodir se deixados por tempo suficiente."
+    },
+    "UnfertilisedChickenEggs": {
+        "title": "Ovos de galinha (não fertilizados)",
+        "description": "Ovos de galinha podem ser comidos como fonte de nutrição. Este ovo não está fertilizado e não eclodirá."
+    },
+    "FertilisedChickenEggs": {
+        "title": "Ovos de galinha (fertilizados)",
+        "description": "Ovos de galinha podem ser comidos como fonte de nutrição. Este ovo está fertilizado e pode eclodir se deixado por tempo suficiente."
+    }
+}
+

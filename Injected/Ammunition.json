@@ -1,0 +1,19 @@
+{
+    "Torpedoes": {
+		"title": "Torpedos",
+		"description": "Usado com armamento de nave. Pode ser devastador se disparado contra outras naves espaciais."
+	},
+	"RailGunSmallSlugs": {
+		"title": "Projéteis pequenos de arma de trilho",
+		"description": "Uma munição relativamente leve."
+	},
+	"RailGunLargeSlugs": {
+		"title": "Projéteis grandes de arma de trilho",
+		"description": "Munição pesada que pode causar grandes quantidades de dano a alvos de longo alcance."
+	},
+    "SmallCalibreRounds": {
+		"title": "Munições de pequeno calibre",
+		"description": "Pequenos projéteis feitos de carbono para proteger contra violações acidentais."
+	}
+}
+

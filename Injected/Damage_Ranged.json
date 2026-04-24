@@ -1,0 +1,12 @@
+{
+	"SmallArmsRound": {
+		"title": "Projétil de armas pequenas"
+	},
+	"ArmourPiercingRound": {
+		"title": "Projétil perfurante de armadura"
+	},
+	"ShotgunRound": {
+		"title": "Projétil de espingarda"
+	}
+}
+
