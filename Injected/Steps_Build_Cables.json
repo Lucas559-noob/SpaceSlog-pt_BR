@@ -1,0 +1,10 @@
+{
+	"CablesStep1": {
+		"title": "Passando cabos",
+        "description": "Volte ao menu [color=PURPLE]Energia[/color] dentro do menu [color=PURPLE]Construção[/color]."
+	},
+	"CablesStep2": {
+        "description": "Selecione o botão destacado de [color=PURPLE]Cabo de Energia[/color] e coloque-o entre quaisquer [color=RED]cabos de energia[/color] [color=KHAKI]vermelhos[/color] que estejam se conectando. Você pode pressionar [color=PURPLE]Continuar[/color] quando estiver satisfeito."
+	}
+}
+

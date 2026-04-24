@@ -1,0 +1,39 @@
+{
+    "Gaseous": {
+        "title": "Gigante gasoso",
+        "description": "Um planeta composto principalmente de gases com um núcleo rochoso derretido. Esses planetas são inóspitos para a maioria das formas de vida e não têm superfície para pousar."
+    },
+    "Desert": {
+        "title": "Planeta deserto",
+        "description": "Um planeta muito seco e arenoso com uma atmosfera que pode variar de extremamente inóspita a bastante moderada. A maioria dos planetas do tipo deserto tem pouca ou nenhuma vegetação, mas ainda pode ser capaz de sustentar vida."
+    },
+    "Water": {
+        "title": "Planeta aquático",
+        "description": "Este planeta é composto principalmente de água. Esses planetas às vezes podem ter pequenas massas de terra ou ilhas que podem ser seguras para pousar. No entanto, devido às suas composições químicas variadas, a maioria das águas desses mundos não é adequada para beber."
+    },
+    "Magma": {
+        "title": "Planeta de magma",
+        "description": "Um planeta coberto de rocha derretida e lava. Extremamente quente e inóspito para a maioria das formas de vida. Equipamento especial é geralmente necessário para viajar aqui."
+    },
+    "YellowDwarf": {
+        "title": "Anã amarela",
+        "description": "Uma estrela pequena, quente e estável que emite muita luz para seu tamanho modesto."
+    },
+    "WhiteDwarf": {
+        "title": "Anã branca",
+        "description": "Uma estrela muito pequena, mas densa que esgotou a maior parte de seu combustível nuclear. Essas estrelas começam muito quentes e gradualmente esfriam."
+    },
+    "RedDwarf": {
+        "title": "Anã vermelha",
+        "description": "Uma estrela pequena, fria e muito estável. Essas propriedades significam que estatisticamente são as estrelas mais numerosas no Slog."
+    },
+    "RedGiant": {
+        "title": "Gigante vermelha",
+        "description": "Uma estrela gigante, relativamente fria, de baixa massa, que emite muita luz. O berçário mais comum para nebulosas planetárias."
+    },
+    "BlueGiant": {
+        "title": "Gigante azul",
+        "description": "Uma estrela grande, de curta duração, extremamente quente. Gigantes azuis emitem enormes quantidades de calor e radiação, tornando-as muito perigosas para viajar por perto. No entanto, recursos extremamente raros e valiosos às vezes podem ser encontrados orbitando essas estrelas."
+    }
+}
+

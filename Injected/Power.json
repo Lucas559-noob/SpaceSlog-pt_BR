@@ -1,0 +1,27 @@
+{
+    "Cables": {
+        "title": "Cabo de energia",
+        "description": "Um condutor usado para transportar eletricidade de sua fonte para um receptor."
+    },
+    "SmallGenerator": {
+        "title": "Gerador pequeno",
+        "description": "Consome Plutônio armazenado em Células de Combustível para gerar uma pequena quantidade de eletricidade."
+    },
+    "LargeGenerator": {
+        "title": "Gerador grande",
+        "description": "Consome Plutônio armazenado em Células de Combustível para gerar uma grande quantidade de eletricidade. Este gerador é cerca de 10% mais eficiente que produzir a mesma quantidade de energia com múltiplos geradores pequenos."
+    },
+    "SmallSolarPanel": {
+        "title": "Painel solar pequeno",
+        "description": "Gera uma pequena quantidade de eletricidade a partir de fontes naturais de luz, como uma estrela."
+    },
+    "LargeSolarPanel": {
+        "title": "Painel solar grande",
+        "description": "Gera uma quantidade moderada de eletricidade a partir de fontes naturais de luz, como uma estrela."
+    },
+    "Battery": {
+        "title": "Bateria",
+        "description": "Armazena eletricidade em excesso e a redistribui de volta à rede quando necessário. É uma boa ideia ter pelo menos uma bateria em sua nave o mais rápido possível."
+    }
+}
+

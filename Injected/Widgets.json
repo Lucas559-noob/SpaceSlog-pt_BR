@@ -1,0 +1,64 @@
+{
+    "PowerReceiverSwitch": {
+        "title": "Alternar energia."
+    },
+    "PowerSourceSwitch": {
+        "title": "Alternar energia."
+    },
+    "AutoRefuel": {
+        "title": "Alternar reabastecimento automático."
+    },
+    "Cancel": {
+        "title": "Cancelar projeto.",
+        "description": "Cancela e remove o projeto atual."
+    },
+    "Deconstruct": {
+        "title": "Alternar desconstrução."
+    },
+    "Command": {
+        "title": "Alternar comando."
+    },
+    "DeleteZone": {
+        "title": "Remover zona.",
+        "description": "Remove esta zona."
+    },
+    "ExpandZone": {
+        "title": "Expandir zona.",
+        "description": "Expande o tamanho desta zona."
+    },
+    "ReduceZone": {
+        "title": "Reduzir zona.",
+        "description": "Reduz o tamanho desta zona."
+    },  
+    "ChangeColour": {
+        "title": "Alterar cor.",
+        "description": "Altera a cor desta zona."
+    },
+    "ZoneVisibility": {
+        "title": "Visibilidade da zona."
+    },
+    "Forbid": {
+        "title": "Alternar interação."
+    },
+    "ForcedMine": {
+        "title": "Alternar mineração."
+    },
+    "ForcedHarvest": {
+        "title": "Forçar colheita."
+    },
+    "ForceShoot": {
+        "title": "Disparo forçado.",
+        "description": "Forçar alvo de disparo."
+    },
+    "ForceMelee": {
+        "title": "Corpo a corpo forçado.",
+        "description": "Forçar alvo de corpo a corpo."
+    },
+    "OperateVent": {
+        "title": "Alternar ativo."
+    },
+    "Hunt": {
+        "title": "Alternar caça."
+    }
+}
+

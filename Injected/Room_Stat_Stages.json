@@ -1,0 +1,47 @@
+{
+    "Spotless": {
+        "title": "Impecável",
+        "description": "Esta sala está impecavelmente limpa, sem sujeira à vista."
+    },
+    "Clean": {
+        "title": "Limpa",
+        "description": "Esta sala está limpa e quase totalmente livre de sujeira."
+    },
+    "Dirty": {
+        "title": "Suja",
+        "description": "Esta sala está suja e precisa de limpeza."
+    },
+    "Filthy": {
+        "title": "Imunda",
+        "description": "Esta sala está imunda e precisa seriamente de limpeza."
+    },
+    "Cramped": {
+        "title": "Apertada",
+        "description": "Esta sala é extremamente apertada."
+    },
+    "Tight": {
+        "title": "Justa",
+        "description": "Esta sala é bastante justa."
+    },
+    "Cluttered": {
+        "title": "Entulhada",
+        "description": "Esta sala está bastante entulhada."
+    },
+    "Ample": {
+        "title": "Ampla",
+        "description": "Esta sala é de tamanho médio."
+    },
+    "Spacious": {
+        "title": "Espaçosa",
+        "description": "Esta sala é espaçosa."
+    },
+    "VerySpacious": {
+        "title": "Muito Espaçosa",
+        "description": "Esta sala é muito espaçosa."
+    },
+    "Expansive": {
+        "title": "Expansiva",
+        "description": "Esta sala tem grandes espaços abertos."
+    }
+}
+

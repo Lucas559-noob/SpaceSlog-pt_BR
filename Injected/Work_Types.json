@@ -1,0 +1,63 @@
+{
+	"FireControl": {
+		"title": "Controle de incêndio",
+		"description": "Tentará combater qualquer incêndio."
+	},
+	"Patient": {
+		"title": "Paciente",
+		"description": "Usará camas quando estiver ferido ou doente para se curar completamente."
+	},
+	"Medical": {
+		"title": "Médico",
+		"description": "Resgata, cuida e cura os doentes ou feridos."
+	},
+	"Cook": {
+		"title": "Cozinheiro",
+		"description": "Realiza todas as atividades de cozinha e preparação de bebidas."
+	},
+	"Botany": {
+		"title": "Botânica",
+		"description": "Cuida das plantas, incluindo plantar sementes e colher culturas."
+	},
+	"Engineering": {
+		"title": "Engenharia",
+		"description": "Realiza qualquer manutenção e constrói ou desconstrói qualquer coisa necessária."
+	},
+	"Janitor": {
+		"title": "Zelador",
+		"description": "Limpa pisos e realiza muitas tarefas básicas."
+	},
+	"Security": {
+		"title": "Segurança",
+		"description": "Cuida e gerencia prisioneiros."
+	},
+	"Science": {
+		"title": "Ciência",
+		"description": "Realiza pesquisa, desenvolvimento e outras atividades científicas."
+	},
+	"AnimalHandler": {
+		"title": "Tratador de Animais",
+		"description": "Treina e realiza o cuidado diário de todos os animais."
+	},
+	"Tailor": {
+		"title": "Alfaiate",
+		"description": "Cria roupas."
+	},
+	"Machining": {
+		"title": "Maquinaria",
+		"description": "Cria vários equipamentos e peças para nave."
+	},
+	"Labourer": {
+		"title": "Trabalhador",
+		"description": "Transporta mortos, equipamentos e recursos onde necessário. Reabastece máquinas designadas."
+	},
+	"Mining": {
+		"title": "Mineração",
+		"description": "Completa tarefas de mineração."
+	},
+	"Hunting": {
+		"title": "Caça",
+		"description": "Irá caçar quaisquer criaturas marcadas como presa."
+	}
+}
+

@@ -1,0 +1,180 @@
+{
+    "Idle": {
+        "title": "Ocioso"
+    },
+    "Pickup": {
+        "title": "Pegar"
+    },
+    "PickupEntityB": {
+        "title": "Pegar"
+    },
+    "DropIntoBed": {
+        "title": "Colocar na cama"
+    },
+    "Drop": {
+        "title": "Soltar"
+    },
+    "DropAtTargetB": {
+        "title": "Soltar"
+    },
+    "ForceDrop": {
+        "title": "Forçar a soltar"
+    },
+    "Heal": {
+        "title": "Curar"
+    },
+    "MoveTo": {
+        "title": "Mover"
+    },
+    "MoveToPathB": {
+        "title": "Mover"
+    },
+    "Wait": {
+        "title": "Esperar"
+    },
+    "EatFood": {
+        "title": "Comer"
+    },
+    "Drink": {
+        "title": "Beber"
+    },
+    "FindPathToTarget": {
+        "title": "Encontrar caminho para o alvo"
+    },
+    "FindPathToTargetB": {
+        "title": "Encontrar caminho para o alvo"
+    },
+    "FindPathToTargetBFalse": {
+        "title": "Encontrar caminho para o alvo"
+    },
+    "FindPathToTargetCell": {
+        "title": "Encontrar caminho para célula alvo"
+    },
+    "FindPathToTargetCellTrue": {
+        "title": "Encontrar caminho para célula alvo"
+    },
+    "FindBestStorageCell": {
+        "title": "Encontrar melhor célula de armazenamento"
+    },
+    "GetClosestFuel": {
+        "title": "Encontrar caminho para o combustível mais próximo"
+    },
+    "GetDeadPawnDropSpot": {
+        "title": "Encontrar local para descartar peão morto"
+    },
+    "Refuel": {
+        "title": "Reabastecer"
+    },
+    "RefuelTargetB": {
+        "title": "Reabastecer"
+    },
+    "Clean": {
+        "title": "Limpar"
+    },
+    "Reserve": {
+        "title": "Reservar"
+    },
+    "ReserveEntityB": {
+        "title": "Reservar"
+    },
+    "ReserveCell": {
+        "title": "Reservar célula"
+    },
+    "Sleep": {
+        "title": "Dormir"
+    },
+    "RestUntilHealed": {
+        "title": "Descansar até curar"
+    },
+    "Equip": {
+        "title": "Equipar"
+    },
+    "UnEquip": {
+        "title": "Remover"
+    },
+    "Slip": {
+        "title": "Escorregar"
+    },
+    "Trip": {
+        "title": "Tropeçar"
+    },
+    "Sing": {
+        "title": "Cantar"
+    },
+    "Wave": {
+        "title": "Acenar"
+    },
+    "Chat": {
+        "title": "Conversar"
+    },
+    "SowAtTargetB": {
+        "title": "Semear"
+    },
+    "HarvestPlant": {
+        "title": "Colher"
+    },
+    "HarvestBrew": {
+        "title": "Colher"
+    },
+    "Water": {
+        "title": "Regar"
+    },
+    "ClosestMoveCellToPos": {
+        "title": "Movimento forçado"
+    },
+    "Strip": {
+        "title": "Despir"
+    },
+    "Mine": {
+        "title": "Minerar"
+    },
+    "Deconstruct": {
+        "title": "Desconstruir"
+    },
+    "Repair": {
+        "title": "Reparar"
+    },
+    "Build": {
+        "title": "Construir"
+    },
+    "DestroyAsset": {
+        "title": "Destruir item."
+    },
+    "SitAtChair": {
+        "title": "Sentar na cadeira."
+    },
+    "PlayArcadeMachine": {
+        "title": "Jogar na máquina de arcade."
+    },
+    "TendHeal": {
+        "title": "Curar"
+    },
+    "TendFeed": {
+        "title": "Alimentar"
+    },
+    "TendHydrate": {
+        "title": "Hidratar"
+    },
+    "FindPlaceToIngest": {
+        "title": "Encontrar local para ingerir"
+    },
+    "BackToShip": {
+        "title": "Encontrar o caminho de volta para a nave"
+    },
+    "Butcher": {
+        "title": "Abater"
+    },
+    "StampFire": {
+        "title": "Apagar fogo"
+    },
+    "MateWithPartner": {
+        "title": "Acasalar com parceiro"
+    },
+    "FollowAndMoveTo": {
+        "title": "Seguir e mover para"
+    },
+    "InsertGetMaterials": {
+        "title": "Coletar materiais"
+    }
+}
+

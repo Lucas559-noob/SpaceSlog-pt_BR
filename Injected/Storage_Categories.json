@@ -1,0 +1,67 @@
+{
+    "Sustenance": {
+        "title": "Sustento",
+        "description": "Produtos alimentícios e líquidos bebíveis."
+    },
+    "RawMaterials": {
+        "title": "Matérias-primas",
+        "description": "Materiais básicos usados para criar outros itens."
+    },
+    "Weapons": {
+        "title": "Armas",
+        "description": "Itens que podem ser usados para combate."
+    },
+    "Clothing": {
+        "title": "Vestuário",
+        "description": "Itens que podem ser equipados e usados."
+    },
+    "ManMade": {
+        "title": "Manufaturados",
+        "description": "Itens geralmente criados a partir de matérias-primas."
+    },
+    "Corpses": {
+        "title": "Cadáveres",
+        "description": "Restos de criaturas falecidas."
+    },
+    "Alcoholic": {
+        "title": "Alcoólicos",
+        "description": "Líquidos bebíveis contendo álcool."
+    },
+    "NonAlcoholic": {
+        "title": "Não Alcoólicos",
+        "description": "Líquidos bebíveis livres de álcool."
+    },
+    "Melee": {
+        "title": "Corpo a corpo",
+        "description": "Armas de combate próximo."
+    },
+    "Ranged": {
+        "title": "Longo alcance",
+        "description": "Armas de longa distância."
+    },
+    "HeadGear": {
+        "title": "Chapéus/Capacetes",
+        "description": "Vestuário equipado no slot de cabeça."
+    },
+    "UpperBody": {
+        "title": "Parte superior do corpo",
+        "description": "Vestuário equipado nos slots de corpo interno ou superior."
+    },
+    "Armour": {
+        "title": "Armadura",
+        "description": "Vestuário de proteção equipado no slot de armadura."
+    },
+    "Trousers": {
+        "title": "Calças",
+        "description": "Vestuário equipado no slot de pernas."
+    },
+    "FootWear": {
+        "title": "Calçados",
+        "description": "Vestuário equipado no slot de calçados."
+    },
+    "AllowAllCorpses": {
+        "title": "Permitir todos os cadáveres",
+        "description": "Todos os tipos de cadáveres podem ser armazenados."
+    }
+}
+

@@ -1,0 +1,13 @@
+{
+	"BuildLifeSupportStep1": {
+		"title": "Construir suporte de vida",
+        "description": "Ficar sem oxigênio pode ser extremamente perigoso para a tripulação, então provavelmente deveríamos configurar algum suporte de vida.\n\nSelecione o botão destacado de [color=PURPLE]Atmosfera[/color] no menu [color=PURPLE]Construção[/color]."
+	},
+	"BuildLifeSupportStep2": {
+        "description": "Agora selecione o botão destacado de [color=PURPLE]Suporte de Vida[/color]."
+	},
+	"BuildLifeSupportStep3": {
+        "description": "Lembre-se de verificar as informações abaixo para ver qual combustível isto usa. Neste caso, usa [color=KHAKI]Gelo[/color], que podemos obter de [color=KHAKI]Asteroides[/color].\n\nColoque o [color=KHAKI]Suporte de Vida[/color] dentro de sua nave em qualquer espaço de piso disponível."
+	}
+}
+

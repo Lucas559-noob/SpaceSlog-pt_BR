@@ -1,0 +1,51 @@
+{
+    "Farming": {
+        "title": "Agricultura",
+        "description": "Uma alta proporção das terras e pessoas de {faction_name} está investida na agricultura."
+    },
+    "Mining": {
+        "title": "Mineração",
+        "description": "Com uma abundância de minerais ou metais raros, {faction_name} dedica recursos consideráveis à mineração e processamento."
+    },
+    "Capitalist": {
+        "title": "Capitalista",
+        "description": "Tudo pertence a alguém, e se há demanda por algo, há dinheiro a ser ganho."
+    },
+    "Unassimilable": {
+        "title": "Patriótico",
+        "description": "Extremamente patriótico à causa. Incapaz de ser absorvido ou integrado."
+    },
+    "Explorer": {
+        "title": "Explorador",
+        "description": "Curiosidade inata e um senso de aventura ilimitado são comuns entre as pessoas de {faction_name}."
+    },
+    "Rebellious": {
+        "title": "Rebelde",
+        "description": "Regras foram feitas para serem quebradas, e aqui as regras são quebradas bem!"
+    },
+    "Psychotic": {
+        "title": "Psicótico",
+        "description": "Como alguém pode saber o que é real e o que está na sua cabeça? As pessoas de {faction_name} certamente não conseguem distinguir."
+    },
+    "Obtruder": {
+        "title": "Impositivo",
+        "description": "Continuamente tenta forçar ou impor suas próprias ideias aos outros."
+    },
+    "Defiant": {
+        "title": "Desafiador",
+        "description": "Relutante em negociar ou succumbir a subornos."
+    },
+    "Militar": {
+        "title": "Militar",
+        "description": "É comumente entendido aqui que a única forma de garantir a sobrevivência em um universo hostil é com um exército disciplinado."
+    },
+    "Mechanical": {
+        "title": "Mecânico",
+        "description": "{faction_name} tem algumas das melhores mentes de engenharia dentro do slog."
+    },
+    "Scientific": {
+        "title": "Científico",
+        "description": "Uma forma de pensar robusta e analítica oferece-lhes uma maior compreensão da galáxia ao redor."
+    }
+}
+

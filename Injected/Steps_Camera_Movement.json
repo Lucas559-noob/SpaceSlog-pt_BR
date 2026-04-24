@@ -1,0 +1,13 @@
+{
+	"CameraMovementStep1": {
+		"title": "Movimentação da câmera",
+        "description": "Use {move_up}, {move_left}, {move_down}, {move_right} para mover a câmera. Você também pode [color=LIGHT_GREEN]clicar e arrastar[/color] com {camera_scroll}.\n\nPressionar {quick_scroll} permite que você se mova mais rapidamente."
+	},
+	"CameraMovementStep2": {
+        "description": "{scroll_up}, {scroll_down} ampliará e reduzirá o zoom da câmera."
+	},
+	"CameraMovementStep3": {
+        "description": "Pressionar {reset_camera} centralizará a câmera de volta em sua nave."
+	}
+}
+

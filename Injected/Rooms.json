@@ -1,0 +1,43 @@
+{
+    "GeneralRoom": {
+        "title": "Sala Geral",
+        "description": "Uma sala genérica ou multifuncional."
+    },
+    "Quarters": {
+        "title": "Alojamentos da Tripulação",
+        "description": "Um espaço privado de vida para membros da tripulação designados.\n\nA capacidade é ditada pela quantidade de lugares para dormir."
+    },
+    "GrowRoom": {
+        "title": "Sala de Cultivo",
+        "description": "Um espaço designado para cultivar plantas, frutas e vegetais."
+    },
+    "Brig": {
+        "title": "Cela",
+        "description": "Um espaço designado para manter prisioneiros."
+    },
+    "MessHall": {
+        "title": "Refeitório",
+        "description": "Um espaço designado para refeições e cozinha."
+    },
+    "Bridge": {
+        "title": "Ponte",
+        "description": "A sala contendo os centros de navegação e comando da nave."
+    },
+    "SickBay": {
+        "title": "Enfermaria",
+        "description": "Um espaço designado para manter membros da tripulação doentes ou feridos."
+    },
+    "CargoBay": {
+        "title": "Porão de Carga",
+        "description": "Um espaço designado para armazenar carga e suprimentos."
+    },
+    "EngineRoom": {
+        "title": "Sala de Máquinas",
+        "description": "A sala contendo os motores da nave e maquinaria relacionada."
+    },
+    "LifeSupport": {
+        "title": "Suporte de Vida",
+        "description": "A sala contendo os sistemas atmosféricos e ambientais da nave."
+    }
+}
+

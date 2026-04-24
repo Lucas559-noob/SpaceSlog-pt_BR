@@ -1,0 +1,15 @@
+{
+	"Rat": {
+    	"title": "Rato",
+		"description": "Um roedor pequeno e adaptável. Às vezes pode ser encontrado como clandestino em naves."
+	},
+	"Hen": {
+    	"title": "Galinha",
+		"description": "Uma galinha fêmea. Pode botar ovos se tiver um galo para acasalar, ou pode ser abatida para obter carne."
+	},
+	"Rooster": {
+    	"title": "Galo",
+		"description": "Um galo macho. Pode acasalar com galinhas para fertilizar seus ovos, ou pode ser abatido para obter carne."
+	}
+}
+

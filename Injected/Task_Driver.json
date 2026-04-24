@@ -1,0 +1,155 @@
+{
+    "Roam": {
+        "title": "Vagar",
+        "description": "Vagando por aí."
+    },
+    "Idle": {
+        "title": "Ocioso",
+        "description": "Parado por aí."
+    },
+    "Eat": {
+        "title": "Comer",
+        "description": "Comendo {object_a}."
+    },
+    "Drink": {
+        "title": "Beber",
+        "description": "Bebendo {object_a}."
+    },
+    "Clean": {
+        "title": "Limpar",
+        "description": "Limpando {object_a}."
+    },
+    "Sleep": {
+        "title": "Dormir",
+        "description": "Dormindo."
+    },
+    "InvoluntarySleep": {
+        "title": "Dormir",
+        "description": "Descansando."
+    },
+    "ForceMove": {
+        "title": "Forçar movimento",
+        "description": "Movendo-se."
+    },
+    "Pickup": {
+        "title": "Pegar",
+        "description": "Pegando {object_a}."
+    },
+    "Haul": {
+        "title": "Transportar",
+        "description": "Transportando {object_a}."
+    },
+    "Combine": {
+        "title": "Combinar",
+        "description": "Combinando {object_a}."
+    },
+    "Refuel": {
+        "title": "Reabastecer",
+        "description": "Reabastecendo {object_b} com {object_a}."
+    },
+    "MoveDeadPawn": {
+        "title": "Mover peão morto",
+        "description": "Descartando {object_a}."
+    },
+    "Equip": {
+        "title": "Equipar",
+        "description": "Equipando {object_a}."
+    },
+    "UnEquip": {
+        "title": "Remover",
+        "description": "Removendo {object_a}."
+    },
+    "CollectMaterials": {
+        "title": "Coletar materiais",
+        "description": "Coletando {object_a}."
+    },
+    "Strip": {
+        "title": "Despir",
+        "description": "Removendo todos os itens do inventário de {object_a}."
+    },
+    "Deconstruct": {
+        "title": "Desconstruir",
+        "description": "Desconstruindo {object_a}."
+    },
+    "Repair": {
+        "title": "Reparar",
+        "description": "Reparando {object_a}."
+    },
+    "Mine": {
+        "title": "Minerar",
+        "description": "Minerando {object_a}."
+    },
+    "DestroyAsset": {
+        "title": "Destruir item",
+        "description": "Destruindo {object_a}."
+    },
+    "HaulToPrefab": {
+        "title": "Transportar para construção",
+        "description": "Transportando {object_a} para {object_b}."
+    },
+    "Build": {
+        "title": "Construir",
+        "description": "Construindo {object_a}."
+    },
+    "Rescue": {
+        "title": "Resgatar",
+        "description": "Resgatando {object_b}."
+    },
+    "RestUntilHealed": {
+        "title": "Descansar",
+        "description": "Descansando."
+    },
+    "UseEntertainment": {
+        "title": "Jogar na máquina de arcade.",
+        "description": "Jogando {object_a}."
+    },
+    "SitAtChair": {
+        "title": "Sentado.",
+        "description": "Sentado."
+    },
+    "TendHeal": {
+        "title": "Curar peão",
+        "description": "Curando {object_b} com {object_a}."
+    },
+    "TendFeed": {
+        "title": "Curar peão",
+        "description": "Alimentando {object_b} com {object_a}."
+    },
+    "TendHydrate": {
+        "title": "Curar peão",
+        "description": "Reidratando {object_b} com {object_a}."
+    },
+    "GetBackToShip": {
+        "title": "Voltar para a nave",
+        "description": "Fazendo meu caminho de volta para a nave."
+    },
+    "Butcher": {
+        "title": "Abater",
+        "description": "Abatendo {object_a}."
+    },
+    "SowPlant": {
+        "title": "Semear planta",
+        "description": "Semeando {object_a}."
+    },
+    "HarvestPlant": {
+        "title": "Colher planta",
+        "description": "Colhendo {object_a}."
+    },
+    "HarvestBrew": {
+        "title": "Colher bebida",
+        "description": "Colhendo {object_a}."
+    },
+    "SitOnCaptainsChair": {
+        "title": "Sentar na cadeira do capitão",
+        "description": "Sentado na minha cadeira."
+    },
+    "Breed": {
+        "title": "Acasalar.",
+        "description": "Acasalando com {object_a}."
+    },
+    "SelfTend": {
+        "title": "Autocuidado",
+        "description": "Cuidando de si mesmo com {object_a}."
+    }
+}
+

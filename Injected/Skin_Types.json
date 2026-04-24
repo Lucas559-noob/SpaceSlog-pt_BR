@@ -1,0 +1,19 @@
+{
+	"Human": {
+		"title": "Pele",
+        "description": "À prova d'água, mas fraca."
+	},
+    "Serpent": {
+		"title": "Pele",
+		"description": "Relativamente forte."
+	},
+    "ScaledSerpent": {
+		"title": "Pele",
+		"description": "Relativamente forte."
+	},
+    "SmallAnimal": {
+		"title": "Pele",
+		"description": "Relativamente forte."
+	}
+}
+

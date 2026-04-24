@@ -1,0 +1,27 @@
+{
+	"Transponder": {
+		"title": "Transponder",
+		"description": "Necessário para permitir a construção da maioria das estruturas e para ser detectado por outras naves e instalações. Contém uma bateria de backup, limitada a 90w de energia conectada que é ativada automaticamente sempre que seu circuito primário perde energia."
+	},
+	"CommConsole": {
+		"title": "Console de comunicação",
+		"description": "Necessário para comunicação com outras naves e instalações."
+	},
+	"SmallThruster": {
+		"title": "Propulsor pequeno",
+		"description": "Fornece uma pequena quantidade de empuxo quando ativado."
+	},
+	"MediumThruster": {
+		"title": "Propulsor médio",
+		"description": "Fornece uma quantidade moderada de empuxo quando ativado."
+	},
+	"LargeThruster": {
+		"title": "Propulsor grande",
+		"description": "Fornece uma grande quantidade de empuxo quando ativado."
+	},
+	"Aeroponics": {
+		"title": "Aeroponia",
+		"description": "Um lugar para cultivar plantas e vegetais. Qualquer coisa crescendo aqui começará a apodrecer se isso não estiver energizado."
+	}
+}
+

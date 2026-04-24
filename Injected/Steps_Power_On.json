@@ -1,0 +1,11 @@
+{
+	"PowerUpStep1": {
+		"title": "Ligando a energia",
+        "description": "Esperançosamente, agora seu [color=KHAKI]Gerador de Energia[/color] e seu [color=KHAKI]Suporte de Vida[/color] devem ter sido concluídos.\n\nSe não, você pode clicar nas predefinições dentro de sua nave para ver quais materiais são necessários e se eles estão disponíveis; caso contrário, designe mais [color=KHAKI]Destroços de Nave[/color] para serem desconstruídos.\n\nVocê pode pressionar [color=PURPLE]Continuar[/color] quando estiver satisfeito."
+	},
+	"PowerUpStep2": {
+		"title": "Ligando a energia",
+        "description": "Se concluídos, seu [color=KHAKI]Gerador de Energia[/color] e [color=KHAKI]Suporte de Vida[/color] devem estar operacionais.\n\nSe eles não ligaram, verifique suas conexões e certifique-se de que tenham [color=KHAKI]Combustível[/color] suficiente.\n\nVocê pode pressionar [color=PURPLE]Continuar[/color] quando estiver satisfeito."
+	}
+}
+

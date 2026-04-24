@@ -1,0 +1,11 @@
+{
+    "Stockpile": {
+        "title": "Estoque",
+        "description": "Coloque isso dentro de sua nave para armazenar carga."
+    },
+    "TempStockpile": {
+        "title": "Estoque Temporário",
+        "description": "Pode ser colocado fora da nave no espaço para armazenar carga temporariamente. Quaisquer itens deixados em estoques fora da nave serão deixados para trás ao sair da área.\nSó pode ser colocado enquanto estacionário."
+    }
+}
+

@@ -1,0 +1,23 @@
+{
+    "AirTightness": {
+        "title": "Hermeticidade",
+        "description": "A hermeticidade geral da nave."
+    },
+    "Oxygen": {
+        "title": "Oxigênio",
+        "description": "Os níveis de oxigênio da nave."
+    },
+    "CarbonDioxide": {
+        "title": "Dióxido de Carbono",
+        "description": "Os níveis de dióxido de carbono da nave."
+    },
+    "Temperature": {
+        "title": "Temperatura",
+        "description": "As temperaturas internas da nave."
+    },
+    "ConnectedStructures": {
+        "title": "Conexões",
+        "description": "As estruturas conectadas da nave. Qualquer coisa desconectada da nave será deixada para trás ao entrar em modo de alta velocidade."
+    }
+}
+

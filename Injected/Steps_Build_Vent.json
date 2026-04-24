@@ -1,0 +1,10 @@
+{
+	"BuildVentStep1": {
+		"title": "Construir um ventilador de ar",
+        "description": "Agora que sua nave tem um suporte de vida funcionando, ela precisará de um [color=KHAKI]Ventilador de Ar[/color] para descarregar seus gases em qualquer sala a que esteja conectado.\n\nSelecione o botão destacado de [color=PURPLE]Ventilador de Ar[/color] no menu [color=PURPLE]Atmosfera[/color]."
+	},
+	"BuildVentStep2": {
+        "description": "Agora coloque-o dentro de sua nave em qualquer [color=KHAKI]Placa de Convés[/color] disponível.\n\nIsso precisará ser conectado ao seu [color=KHAKI]Suporte de Vida[/color] através de [color=KHAKI]Dutos Atmosféricos[/color], no entanto, se você colocá-los bem próximos um do outro, eles se conectarão automaticamente."
+	}
+}
+

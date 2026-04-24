@@ -1,0 +1,13 @@
+{
+	"BuildPowerGeneratorStep1": {
+		"title": "Construir um gerador de energia",
+        "description": "Agora que sua tripulação terminou de expandir a nave, eles precisarão de energia.\n\nPrimeiro, selecione o botão destacado de [color=PURPLE]Energia[/color] no menu [color=PURPLE]Construção[/color]."
+	},
+	"BuildPowerGeneratorStep2": {
+        "description": "Agora selecione o botão destacado de [color=PURPLE]Gerador de Energia[/color]."
+	},
+	"BuildPowerGeneratorStep3": {
+        "description": "Mais informações serão mostradas abaixo, incluindo o tipo de combustível e as habilidades necessárias.\n\nVocê também pode selecionar os materiais primários e secundários usados para construir isto, embora os padrões devam servir por enquanto.\nSe os números estiverem em [color=RED]vermelho[/color], é porque todos os nossos materiais estão fora da nave.\n\nColoque isto dentro de sua nave em qualquer espaço de piso disponível."
+	}
+}
+

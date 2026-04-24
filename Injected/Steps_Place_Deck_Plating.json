@@ -1,0 +1,10 @@
+{
+	"PlaceDeckPlatingStep1": {
+		"title": "Construindo Placa de Convés",
+        "description": "Agora podemos aumentar o espaço do piso colocando algumas [color=KHAKI]Placas de Convés[/color]. Selecione o botão destacado de [color=PURPLE]Placa de Convés[/color] na aba Estruturas no menu [color=PURPLE]Construção[/color]."
+	},
+	"PlaceDeckPlatingStep2": {
+		"description": "Coloque isto sobre a área destacada em branco e espere que sua tripulação termine de construí-las.\n\nLembre-se, isto só pode ser colocado sobre a [color=KHAKI]Estrutura da Nave[/color] e também precisa estar cercado por [color=KHAKI]Estrutura da Nave[/color] adicional."
+	}
+}
+

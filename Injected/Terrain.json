@@ -1,0 +1,30 @@
+{
+    "Sand": {
+        "title": "Areia"
+    },
+    "Mud": {
+        "title": "Lama"
+    },
+    "Rock": {
+        "title": "Rocha"
+    },
+    "Soil": {
+        "title": "Solo"
+    },
+    "Gravel": {
+        "title": "Cascalho"
+    },
+    "ShallowWater": {
+        "title": "Água Rasa"
+    },
+    "DeepWater": {
+        "title": "Água Profunda"
+    },
+    "Magma": {
+        "title": "Magma"
+    },
+    "Ice": {
+        "title": "Gelo"
+    }
+}
+

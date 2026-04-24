@@ -1,0 +1,13 @@
+{
+	"PlaceShipStructureStep1": {
+		"title": "Construindo Estrutura da Nave",
+        "description": "Agora vamos começar a expandir a nave!\n\n[color=LIGHT_GREEN]Clique[/color] no botão [color=PURPLE]Construção[/color] destacado ou pressione {building_menu} para abrir o menu [color=PURPLE]Construção[/color]."
+	},
+	"PlaceShipStructureStep2": {
+		"description": "[color=KHAKI]Estrutura da Nave[/color] forma a estrutura básica de todas as naves e é necessária para suportar outros componentes como a [color=KHAKI]Placa de Convés[/color].\n\nPara começar, selecione o botão [color=PURPLE]Estrutura da Nave[/color] destacado."
+	},
+	"PlaceShipStructureStep3": {
+		"description": "Agora [color=LIGHT_GREEN]clique e arraste[/color] usando {select} sobre a área destacada em branco para colocar alguns projetos, depois espere que sua tripulação termine de construí-los.\n\nSe estiver com pouco [color=KHAKI]Titânio[/color], designe mais [color=KHAKI]Estrutura da Nave[/color] ou [color=KHAKI]Asteroides[/color] para serem trabalhados."
+	}
+}
+

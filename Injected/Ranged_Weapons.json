@@ -1,0 +1,27 @@
+{
+	"Pistol": {
+		"title": "Pistola",
+		"description": "Uma pistola semi-automática projetada para disparo rápido. Excelente para proteção pessoal básica."
+	},
+	"Revolver": {
+		"title": "Revólver",
+		"description": "Uma pistola poderosa com um cilindro giratório."
+	},
+	"LeverActionRifle": {
+		"title": "Rifle de Alavanca",
+		"description": "Um rifle que usa um mecanismo de alavanca para carregar cartuchos."
+	},
+	"AssaultRifle": {
+		"title": "Rifle de Assalto",
+		"description": "Um rifle de disparo rápido projetado para uso militar."
+	},
+	"SubMachineGun": {
+		"title": "Submetralhadora",
+		"description": "Uma arma de fogo automática leve projetada para combate de curto alcance."
+	},
+	"Shotgun": {
+		"title": "Espingarda",
+		"description": "Uma arma de fogo projetada para ser disparada do ombro, usando cartuchos contendo múltiplos pequenos pellets."
+	}
+}
+

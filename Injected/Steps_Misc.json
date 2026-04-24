@@ -1,0 +1,11 @@
+{
+	"TutorialWelcomeStep1": {
+		"title": "Bem-vindo ao tutorial",
+        "description": "Bem-vindo ao seu primeiro dia no Slog!\n\nEste tutorial lhe dará algum treinamento básico sobre como operar sua tripulação e começar a construir sua nave.\n\nVocê pode mover este menu de tutorial a qualquer momento [color=LIGHT_GREEN]clicando e arrastando[/color] dentro da [color=PURPLE]barra superior[/color] usando {select}."
+	},
+	"FinishStep1": {
+		"title": "Tutorial completo",
+        "description": "Você completou o tutorial!\n\nAinda há muito a aprender, mas não desanime; pode levar várias tentativas antes de dominar todas as mecânicas.\n\nSe precisar de ajuda adicional, você sempre pode consultar o [color=PURPLE]Manual de Operações[/color] clicando no botão [color=PURPLE]Informações[/color] destacado e navegando até a guia [color=PURPLE]Manual de Operações[/color].\n\n[i]Observe também que este tutorial continuará a ser expandido e refinado ao longo do tempo[/i]."
+	}
+}
+

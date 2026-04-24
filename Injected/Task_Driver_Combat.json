@@ -1,0 +1,47 @@
+{
+    "FollowAndMelee": {
+        "title": "Seguir e usar corpo a corpo",
+        "description": "Atacando {object_a}."
+    },
+    "FollowAndShoot": {
+        "title": "Seguir e atirar",
+        "description": "Atacando {object_a}."
+    },
+    "Hunt": {
+        "title": "Caçar",
+        "description": "Caçando {object_a}."
+    },
+    "Flee": {
+        "title": "Fugir",
+        "description": "Fugindo."
+    },
+    "MeleeBuilding": {
+        "title": "Atacar estrutura",
+        "description": "Atacando {object_a}."
+    },
+    "ForceShoot": {
+        "title": "Forçar disparo",
+        "description": "Atirando em {object_a}."
+    },
+    "StampFire": {
+        "title": "Apagar fogo",
+        "description": "Apagando {object_a}."
+    },
+    "Restrain": {
+        "title": "Conter",
+        "description": "Contendo {object_a}."
+    },
+    "Slaughter": {
+        "title": "Abater.",
+        "description": "Abatendo {object_a}."
+    },
+    "FinishOffNoWeapon": {
+        "title": "Finalizar.",
+        "description": "Finalizando {object_a}."
+    },
+    "FinishWithMeleeWeapon": {
+        "title": "Finalizar com corpo a corpo",
+        "description": "Atacando {object_a}."
+    }
+}
+

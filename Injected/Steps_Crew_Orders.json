@@ -1,0 +1,19 @@
+{
+	"CrewOrdersStep1": {
+		"title": "Ordens da tripulação",
+        "description": "Precisamos dar mais trabalho para a tripulação.\n\nPodemos fazer isso definindo designações com as várias ordens dentro do menu [color=PURPLE]Ordens[/color].\n\nPrimeiro, abra o menu [color=PURPLE]Ordens[/color] clicando no botão [color=PURPLE]Ordens[/color] destacado."
+	},
+	"CrewOrdersStep2": {
+        "description": "[color=KHAKI]Destroços de nave[/color] podem ser desconstruídos para recuperar matérias-primas. Para que sua tripulação se mova e desconstrua qualquer [color=KHAKI]Destroço de nave[/color], você precisa designá-lo para desconstrução.\n\nPodemos fazer isso com o botão de ordem [color=PURPLE]Desconstruir[/color]."
+	},
+	"CrewOrdersStep3": {
+        "description": "Agora [color=LIGHT_GREEN]clique e arraste[/color] usando {select} sobre os [color=KHAKI]Destroços de nave[/color] para designá-los para desconstrução.\n\nDesignar pelo menos 2 peças de [color=KHAKI]Destroços de nave[/color] para serem desconstruídos.\n\nVocê pode precisar reduzir o zoom e mover a câmera para encontrar alguns."
+	},
+	"CrewOrdersStep4": {
+        "description": "Agora faremos o mesmo para os [color=KHAKI]Asteroides[/color]. Você pode encontrar vários tipos diferentes ao longo do Slog e eles podem ser identificados visualmente pelos seus destaques de minério de cores diferentes.\n\nDesta vez, selecionaremos o botão de ordem [color=PURPLE]Minerar[/color] no menu [color=PURPLE]Ordens[/color]."
+	},
+	"CrewOrdersStep5": {
+        "description": "[color=KHAKI]Asteroides[/color] também precisarão ser designados para mineração.\n\nVá em frente e [color=LIGHT_GREEN]clique e arraste[/color] usando {select} sobre pelo menos 2 [color=KHAKI]Asteroides[/color] e sua tripulação começará a minerá-los quando estiverem disponíveis."
+	}
+}
+

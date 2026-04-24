@@ -1,0 +1,21 @@
+{
+	"Earther": {
+        "title": "Terráqueo"
+	},
+	"Spacer": {
+        "title": "Espacial"
+	},
+    "SpaceWorm": {
+        "title": "Verme espacial"
+	},
+    "HeavySpaceWorm": {
+        "title": "Verme espacial pesado"
+	},
+    "Rodent": {
+        "title": "Roedor"
+	},
+    "Chicken": {
+        "title": "Galinha"
+	}
+}
+

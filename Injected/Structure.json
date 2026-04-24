@@ -1,0 +1,27 @@
+{
+	"MetalHull": {
+		"title": "Estrutura da nave",
+		"description": "Uma estrutura de casco básica que é necessária para permitir a colocação de piso interior. Coloque isso primeiro, depois adicione placas de piso por cima para criar salas."
+	},
+	"MetalFloor": {
+		"title": "Placa de piso",
+		"description": "Placa de piso interior usada para criar salas dentro de sua nave. Deve ser colocada em cima da estrutura da nave."
+	},
+	"BlastDoor": {
+		"title": "Porta de esclusa",
+		"description": "Uma porta automática e hermética elétrica que pode ser usada sem energia, mas será mais lenta para operar. Não vaza atmosfera para o espaço externo."
+	},
+	"ArmouredBlastDoor": {
+		"title": "Porta de esclusa blindada",
+		"description": "Uma porta automática e reforçada hermética elétrica que pode ser usada sem energia, mas será mais lenta para operar. Não vaza atmosfera para o espaço externo."
+	},
+	"MetalHullCorner": {
+		"title": "Parede de casco blindada",
+		"description": "Casco blindado usado em exteriores de naves. Utiliza uma construção porosa para economizar peso, portanto não mantém atmosfera."
+	},
+	"MetalHullAngle": {
+		"title": "Parede de casco blindada",
+		"description": "Casco blindado usado em exteriores de naves. Utiliza uma construção porosa para economizar peso, portanto não mantém atmosfera."
+	}
+}
+
