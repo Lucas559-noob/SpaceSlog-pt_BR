@@ -1,0 +1,77 @@
+{
+	"file_data": {
+		"name": "atalhos de teclado"
+	},
+
+	"keyboard_keys": {
+		"space": "ESPAÇO",
+		"ctrl": "CTRL",
+		"shift": "SHIFT",
+		"alt": "ALT",
+		"enter": "ENTER",
+		"tab": "TAB",
+		"escape": "ESC",
+		"pageup": "PAGE UP",
+		"pagedown": "PAGE DOWN"
+	},
+
+	"mouse_buttons": {
+		"left": "BOTÃO ESQUERDO DO MOUSE",
+		"right": "BOTÃO DIREITO DO MOUSE",
+		"middle": "BOTÃO DO MEIO DO MOUSE",
+		"wheel_up": "RODA DO MOUSE PARA CIMA",
+		"wheel_down": "RODA DO MOUSE PARA BAIXO",
+		"button": "BOTÃO DO MOUSE"
+	},
+
+	"gamepad_buttons": {
+		"a": "A",
+		"b": "B",
+		"x": "X",
+		"y": "Y",
+		"lb": "LB",
+		"rb": "RB",
+		"left_stick_press": "PRESSÃO DO ANALÓGICO ESQUERDO",
+		"right_stick_press": "PRESSÃO DO ANALÓGICO DIREITO",
+		"dpad_up": "D-PAD CIMA",
+		"dpad_down": "D-PAD BAIXO",
+		"dpad_left": "D-PAD ESQUERDA",
+		"dpad_right": "D-PAD DIREITA",
+		"select": "SELECT",
+		"start": "START",
+		"button": "BOTÃO"
+	},
+
+	"gamepad_axes": {
+		"left_stick": "ANALÓGICO ESQUERDO",
+		"right_stick": "ANALÓGICO DIREITO",
+		"left_trigger": "GATILHO ESQUERDO",
+		"right_trigger": "GATILHO DIREITO",
+		"stick": "ANALÓGICO"
+	},
+
+	"separator_or": " ou ",
+
+	"keybind_titles": {
+		"pan_up": "Mover para Cima",
+		"pan_down": "Mover para Baixo",
+		"pan_left": "Mover para Esquerda",
+		"pan_right": "Mover para Direita",
+		"zoom_in": "Aproximar Zoom",
+		"zoom_out": "Afastar Zoom",
+		"scroll_camera": "Rolar Câmera",
+		"recenter_camera": "Recentralizar Câmera",
+		"quick_scroll": "Rolagem Rápida",
+		"pause": "Pausa",
+		"1x_speed": "Velocidade 1x",
+		"2x_speed": "Velocidade 2x",
+		"5x_speed": "Velocidade 5x",
+		"cycle_pawns_forward": "Selecionar Peões Próximo",
+		"cycle_pawns_backward": "Selecionar Peões Anterior",
+		"rotate_building_left": "Rotacionar Construção Esquerda",
+		"rotate_building_right": "Rotacionar Construção Direita",
+		"action": "Ação",
+		"select": "Selecionar",
+		"cancel": "Cancelar"
+	}
+}

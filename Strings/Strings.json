@@ -1,0 +1,563 @@
+{
+	"game_difficulty": {
+		"shipbuilder": "Construtor de Naves - O arquiteto",
+		"timid": "Tímido - Com calma",
+		"normal": "Normal - Sou um tradicionalista",
+		"brutal": "Brutal - Odeio vencer",
+		"shipbuilder_description": "Se você deseja construir pacificamente sua nave ou apenas explorar. As ameaças serão praticamente inexistentes e as facções serão, em sua maioria, amigáveis. Seus peões terão um bônus de humor permanente.",
+		"timid_description": "Para aqueles que preferem uma experiência mais relaxada e um pouco mais fácil. As ameaças serão menores e os incidentes serão menos frequentes.",
+		"normal_description": "Isso oferece a experiência clássica padrão. Mais adequado para aqueles que já jogaram antes.",
+		"brutal_description": "Escolha esta opção apenas se quiser um desafio real; isso é recomendado apenas para jogadores mais experientes. Os incidentes serão mais hostis e ocorrerão com muito mais frequência. As facções serão mais inimigas do que amigas."
+	},
+
+	"game_type": {
+		"progressive": "Harmonia - Vamos com calma",
+		"random": "Aleatório - Adora caos e drama",
+		"progressive_description": "Cria uma experiência mais harmoniosa e relaxada. Embora ainda haja alguma aleatoriedade, o jogo tentará criar uma experiência personalizada. Os incidentes serão mais calculados e progressivos, proporcionando a você um espaço extra para respirar.",
+		"random_description": "O alinhamento das facções, incidentes e vários outros elementos do jogo serão muito mais aleatórios, oferecendo uma experiência mais dramática. As coisas podem correr muito bem ou horrivelmente mal."
+	},
+
+	"game_mode": {
+		"survival": "Sobrevivência",
+		"campaign": "Campanha",
+		"survival_description": "A experiência clássica, onde você pode construir sua nave para explorar o universo e sobreviver pelo maior tempo possível.",
+		"campaign_description": "Apresenta um mapa completo da galáxia."
+	},
+
+	"game_settings": {
+		"world_seed_description": "Aqui você pode alterar a semente aleatória para o universo atual. Você pode então compartilhar essa semente para que outros possam jogar no mesmo universo que você.",
+		"randomise_seed_button_hint": "Aleatoriza a semente atual.",
+		"seed_line_edit_hint": "Comece a digitar para escolher sua própria semente."
+	},
+
+	"error_text_missing": "Sem texto definido.",
+	"restart_game_prompt": "Você deve reiniciar o jogo para que as configurações ajustadas sejam aplicadas.",
+	"game_over_pawns_dead": "Todos os seus tripulantes morreram e não resta ninguém para operar sua nave.\n\nVocê pode escolher sair e retornar ao menu principal, ou pode continuar, na esperança de que alguém resgate sua nave e lhe permita continuar.",
+	"game_over_ship_blown": "Sua nave foi destruída e quaisquer sobreviventes certamente morrerão, vagando na fria e escura extensão do espaço enquanto observam seus níveis de ar e energia diminuírem lentamente a zero.\n\nVocê pode sair e retornar ao menu principal, ou continuar e esperar por um milagre.",
+	"quit_confirm": "Tem certeza? Se sair agora, perderá qualquer progresso não salvo.",
+	"updates": "Atualizações da demo",
+	"demo": "demo",
+	"pre_release": "pré-lançamento",
+	"early_access": "acesso antecipado",
+	"autosave": "Salvamento automático",
+	"permanently_remove_all_lessons": "Remover permanentemente todas as lições",
+	"lesson": "Lição",
+
+	"leaving": "Saindo .. !",
+
+	"language_credits_title": "Créditos de idioma",
+
+	"skill_required": "Habilidade necessária",
+	"fertility": "Fertilidade",
+	"fertilised": "Fertilizado",
+	"unfertilised": "Não fertilizado",
+	"requires": "Requer",
+	"prefab": "prefabricado",
+	"you_have_now_passed": "Você agora passou pelo(a)",
+	"does_not_have_enough_skill_to_perform_action": "%s não tem habilidade %s suficiente para realizar esta ação!",
+
+	"weak": "Fraco",
+	"strong": "Forte",
+
+	"toggle_headgear": "Alternar capacete/chapéu",
+	"toggle_headgear_on": "Remover capacete.",
+	"toggle_headgear_off": "Mostrar capacete.",
+	"randomise_selected_pawn": "aleatorizar o peão atualmente selecionado.",
+	"recruit_pawn": "Recrutar este peão.",
+
+	"scenario_default_description": "Escolha sua história para continuar...",
+	"select": "Selecionar",
+	"deselect": "Desmarcar",
+	"delete_game": "Excluir este jogo salvo",
+	"days_left": "Dias restantes",
+
+	"ship_arrived": "A {ship_name} está agora no alcance de comunicação",
+	"various_items_selected": "Vários selecionados",
+
+	"category": "Categoria",
+
+	"cargo_space_data": "Espaço de carga.\n\nEspaço de carga usado: {space_used}\nEspaço total disponível: {space_available}",
+	"hull_total": "A saúde atual total do casco desta nave em comparação com o máximo possível.\n\nSaúde atual do casco: {current_hp}\nSaúde máxima do casco: {max_hp}",
+	"power_total": "A quantidade de energia usada em comparação com a quantidade disponível.\n\nEnergia usada: {power_used}{unit}\nEnergia disponível: {total_power}{unit}",
+	"stored_power_total": "A quantidade de energia sendo armazenada em comparação com a quantidade de armazenamento disponível.\n\nEnergia armazenada: {current_stored}{unit}\nArmazenamento disponível: {total_storage}{unit}",
+	"heat_total": "A temperatura mais alta registrada atualmente na nave: {current_temp}.\n\nUma temperatura mais alta significa uma chance maior de incêndios começarem.\n\n [color=GRAY]Isso também inclui portas.[/color]",
+	"atmosphere_total": "O ar respirável geral em comparação com a pressão interna máxima.\n\n [color=GRAY]Isso também inclui portas.[/color]",
+	"gas_total": "A quantidade de gás sendo gerada em comparação com a quantidade total disponível para gerar.\n\nGás gerado: {gas_used}{unit}\nGás disponível para gerar: {total_gas}{unit}",
+	"stored_gas_total": "A quantidade de gás sendo armazenada em comparação com a quantidade de armazenamento disponível.\n\nGás armazenado total: {current_stored}{unit}\nArmazenamento total disponível: {total_storage}{unit}",
+
+	"en_health": "HP atual deste item.",
+	"en_power_source": "A quantidade de energia adicionada à rede em comparação com a quantidade disponível.",
+	"en_power_receiver": "A quantidade de energia retirada da rede em comparação com a quantidade necessária.",
+	"en_battery": "A quantidade de energia armazenada em comparação com a quantidade que pode armazenar.",
+	"en_work_to_build": "Quanto trabalho resta para construir este objeto.",
+	"flag_for_deconstruction": "Cancelar solicitação de desconstrução.",
+	"flag_for_deconstruction_cancel": "Solicitar que este item seja desconstruído.",
+	"cancel_blueprint": "Cancelar este projeto.",
+
+	"first_name": "Nome",
+	"nickname": "Apelido",
+	"last_name": "Sobrenome",
+	"first_name_hint": "O nome deste personagem.",
+	"nickname_hint": "O apelido deste personagem.",
+	"last_name_hint": "O sobrenome deste personagem.",
+
+	"building_menu_button": "Construção",
+	"research_menu_button": "Pesquisa",
+	"orders_menu_button": "Ordens",
+	"crew_menu_button": "Tripulação",
+	"factions_menu_button": "Facções",
+	"zones_menu_button": "Zonas",
+
+	"time_till_hatched": "{time} até chocar",
+	"lay_egg_time": "Botando ovo ({fertility}) em {time}",
+	"faction": {
+		"backstory": "Uma espécie de {species} conhecida como {name}.",
+		"backstory_leader": "Seu líder atual é {leader_name}.",
+		"backstory_homeworld": "Seu mundo natal é {homeworld}.",
+		"player_pawn_captured": "{pawn_name} foi capturado por {captor_name}!"
+	},
+
+	"choose_export_ship_name": "Dê um nome à sua nave exportada. Este será o nome do arquivo, so escolha algo único.",
+	"ship_export_info": "Uma vez que sua nave tenha sido exportada, ela pode ser encontrada na sua pasta de dados de usuário. Você pode então copiar esta nave para um arquivo de cenário e usá-la em um novo jogo após selecionar esse cenário.",
+	"menus": {
+		"delete_confirmation": "Tem certeza de que deseja excluir este jogo salvo? Isso não pode ser desfeito.",
+		"overwrite_confirmation": "Tem certeza de que deseja sobrescrever este jogo salvo? Isso não pode ser desfeito."
+	},
+
+	"room_panel": {
+		"oxygen_pressure": "A pressão de oxigênio atual nesta sala.",
+		"carbon_dioxide_pressure": "A pressão de dióxido de carbono atual nesta sala.",
+		"hazardous_gas_pressure": "A quantidade atual de gás perigoso nesta sala.",
+		"breached": "Violado!",
+		"breached_hint": "Esta sala foi violada e está perdendo atmosfera.",
+		"sealed": "Selado",
+		"sealed_hint": "Esta sala está totalmente selada e retendo atmosfera.",
+		"current_pressure": "Pressão atual",
+		"max_pressure": "Pressão total máxima",
+		"temperature_hint": "A temperatura geral nesta sala.",
+		"room_at_capacity": "Sala na capacidade máxima. Você deve construir mais locais de dormir.",
+		"capacity": "Capacidade:",
+		"assigned_this_room": "Designado para esta sala:",
+		"assigned_another_room": "Designado para outra sala:",
+		"assigned_no_room": "Não designado para nenhuma sala:",
+		"owners": "Proprietários:",
+		"lock": "Tranque esta sala para impedir que qualquer pessoa possa se designar a ela."
+	},
+
+	"character_panel": {
+		"health": "A saúde geral desta criatura.",
+		"mood": "O humor atual desta criatura.",
+		"atmosphere": "O status de respirabilidade desta criatura.",
+		"gas_tank_level": "Quanto ar o tanque de gás equipado atualmente possui restante.",
+		"facility_label": "de {facility_name}",
+		"wild": "Selvagem",
+		"tame": "Domado",
+		"na": "N/A",
+		"whole_body": "Corpo inteiro",
+		"bleeding_out": "Sangrando até a morte: {time} para a morte.",
+		"old_wound": "ferida antiga"
+	},
+
+	"object_panel" : {
+		"fuel_type_required": "Quantidade atual de combustível.\n\nCombustível necessário: {fuel}.",
+		"air_source": "A quantidade de gás sendo produzida.",
+		"air_receiver": "A quantidade de gás recebida.",
+		"stored_air": "A quantidade de gás armazenada atualmente.",
+		"stored_power": "A quantidade de energia armazenada atualmente.",
+		"growth_percent": "{growth}% crescido",
+		"progress_percent": "{progress}% de progresso.",
+		"ready_to_harvest": "Pronto para colher",
+		"mature": "Maduro",
+		"working": "Trabalhando",
+		"ingredients_added": "Ingredientes adicionados:",
+		"no_orders": "Sem ordens",
+		"cancel_recipe_order": "Cancelar ordem.\n\nSe uma receita já tiver começado, todos os ingredientes serão perdidos."
+	},
+
+	"morale_panel": {
+		"morale": "Moral: {percentage}%\n\nO humor reflete o estado de espírito desta criatura.\n\nSe ficar muito baixo, esta criatura pode decidir ignorar comandos ou algo muito pior.",
+		"hunger": "Fome: {percentage}% ({stat_value})\n\nA fome refere-se à quantidade de sólidos que esta criatura consumiu recentemente.",
+		"thirst": "Sede: {percentage}% ({stat_value})\n\nA sede refere-se à quantidade de fluidos que esta criatura consumiu recentemente.",
+		"energy": "Energia: {percentage}%\n\nA energia refere-se à quantidade de esforço que esta criatura pode exercer antes de ficar exausta."
+	},
+
+	"equipment_panel": {
+		"encumbrance": "Massa total.\n\nA massa total desta criatura. Inclui a própria massa desta criatura combinada com todos os itens equipados.",
+		"temperature_range": "Faixa de temperatura.\n\nA faixa de temperatura em que esta criatura se sente mais confortável.",
+		"durability": "Durabilidade.\n\nA durabilidade total de todos os itens equipados.",
+		"rad_defence": "Defesa contra radiação.\n\nA defesa total contra radiação desta criatura. Inclui a própria defesa contra radiação desta criatura combinada com todos os itens equipados.",
+		"cut_attack": "Ataque de corte total.",
+		"blunt_attack": "Ataque contundente total.",
+		"cut_defence": "Defesa de corte total.",
+		"blunt_defence": "Defesa contundente total."
+	},
+
+	"crew_panel": {
+		"always_try_wear_spacesuit": "Selecione para garantir que este personagem sempre tente usar um traje espacial completo, se disponível.",
+		"allow_removal_of_helmet": "Selecione para permitir que este personagem remova seu capacete sempre que possível.",
+		"role_capacity": "Capacidade da função:",
+		"clear_current_role": "Sem função \n\nLimpar a função atual.",
+		"role_at_capacity": "Função na capacidade máxima",
+		"essential_role": "Função essencial"
+	},
+
+	"equipment_slots": {
+		"carrying": "Carregando",
+		"armour": "Armadura",
+		"weapon": "Arma",
+		"headgear": "Capacete/Chapéu",
+		"body_under": "Corpo Inferior",
+		"legs": "Pernas",
+		"footwear": "Calçados",
+		"offhand": "Mão secundária",
+		"body_over": "Corpo Superior",
+		"utility": "Utilidade",
+		"hands": "Mãos"
+	},
+
+	"priorities": {
+		"low": "Baixa",
+		"medium": "Média",
+		"high": "Alta"
+	},
+
+	"context" :{
+		"schedule": "programação",
+		"force_do_thing": "Forçar {adjective}",
+		"no_path": "Não é possível {adjective}: Caminho não encontrado",
+		"not_enough_room": "Espaço insuficiente para {adjective}",
+		"reserved_by_someone_else": "Não é possível {adjective}: Reservado por {someone_else}",
+		"not_assigned_work_type": "Não é possível {adjective}: Tipo de trabalho não atribuído",
+		"incapable_skills": "Não é possível {adjective}: Habilidades incapazes",
+		"skills_too_low": "Não é possível {adjective}: Habilidades muito baixas",
+		"no_ingredients": "Não é possível {adjective}: Sem ingredientes disponíveis",
+		"cannot_path_to_ingredient": "Não é possível {adjective}: Caminho para o ingrediente não encontrado",
+		"brew_not_ready": "Não é possível {adjective}: Bebida não pronta",
+		"no_medical_supplies": "Não é possível {adjective}: Sem suprimentos médicos disponíveis",
+		"cannot_path_to_medical_supplies": "Não é possível {adjective}: Caminho para suprimentos médicos não encontrado",
+		"unable_to": "Incapaz de {adjective}",
+		"no_storage_available": "Não é possível {adjective}: Sem armazenamento disponível",
+		"no_fuel_available": "Não é possível {adjective}: Sem combustível disponível",
+		"cannot_path_to_fuel": "Não é possível {adjective}: Incapaz de encontrar caminho para combustível",
+		"no_seeds_available": "Não é possível {adjective}: Sem sementes disponíveis",
+		"cannot_path_to_seed": "Não é possível {adjective}: Incapaz de encontrar caminho para sementes",
+		"no_beds_available": "Nenhuma cama disponível para {adjective}",
+		"no_animal_beds_available": "Nenhuma cama de animal disponível para {adjective}",
+		"no_where_to": "Sem local para {adjective}",
+		"someone_else": "outra pessoa",
+		"cannot_see": "Não é possível ver para {adjective}",
+		"no_secure_prison_beds_available": "Nenhuma cama de prisão segura disponível",
+		"no_food_available": "Não é possível {adjective}: Sem comida disponível",
+		"cannot_path_to_food": "Não é possível {adjective}: Incapaz de encontrar caminho para comida",
+		"no_drink_available": "Não é possível {adjective}: Sem bebida disponível",
+		"cannot_path_to_drink": "Não é possível {adjective}: Incapaz de encontrar caminho para bebida"
+	},
+
+	"systems_alarm_button": "Soar o alarme. Alerta Vermelho!",
+	"systems_power_button": "Ligar ou desligar toda a energia da nave.",
+	"black_alert_title": "Alerta Preto",
+	"black_alert_tooltip": "Alerta Preto: Todos voltem para a nave!",
+	"jump_to_high_burn": "Propulsão para alta velocidade.\n\nAviso: Fazer isso deixará tudo neste setor para trás.",
+	"drop_from_high_burn": "Sair da alta velocidade. Isso deixará você vulnerável aos seus arredores e exigirá que você recarregue seu medidor de propulsão.",
+	"drop": "Soltar",
+	"burn": "Propulsão",
+	"high_burn_meter": "Para entrar em alta velocidade, os propulsores da nave precisam carregar e a cabine dentro da nave precisa pressurizar. Isso é determinado pela quantidade de propulsores que estão sendo alimentados atualmente. Uma vez concluído, você pode entrar em alta velocidade.\n\nCarga atual: {current}\nCarga necessária: {max}",
+	"ship_communicating_with": "Instalação: A {ship_name}",
+	"pawn_initiated_trade": "{pawn_name} iniciou uma negociação com uma habilidade social de {skill_level}",
+	"the_ship_name": "A {ship_name}",
+
+	"no_name_set": "Nenhum nome definido.",
+	"no_description_set": "Nenhuma descrição definida.",
+	"pawn_amount": "x {amount}",
+	"characters": "personagens",
+
+	"click_to_assign": "Clique para designar",
+	"power_button_on": "todos ligados",
+	"power_button_off": "todos desligados",
+	"sys_ship_name_button": "O nome registrado atualmente da nave.\n\nClique para renomear esta nave.",
+	"sys_captain_button": "O capitão atual desta nave.\n\nClique para designar um novo capitão.",
+	"sys_quartermaster_button": "O intendente atual desta nave.\n\nClique para designar um novo intendente.",
+	"sys_red_alert_button" : "Soar o alerta!",
+
+	"facility_panel": {
+		"faction_info": "{ship_type} da {faction}",
+		"bribe_info": "Aqui você pode tentar subornar esta nave. Esteja avisado, porém, que uma tentativa de suborno fracassada pode ter consequências catastróficas.",
+		"ship_left": "A {ship_name} saiu do alcance de comunicação",
+		"no_trade_low_relation": "Não é possível negociar devido a relações baixas.",
+		"no_trade_no_pawn": "Não há ninguém para iniciar uma negociação.",
+		"no_pawn_no_bribe": "Não há ninguém para iniciar um suborno.",
+		"hint_ship_trading": "Negociar requer relações positivas, um console de comunicações e um tripulante para iniciar a negociação.",
+		"hint_bribe_ship": "Se esta nave for hostil, suborná-la pode forçá-la a ir embora.",
+		"cannot_bribe_ship": "Você não pode subornar esta nave.",
+		"already_bribed": "Você não pode subornar esta nave mais.",
+		"attempt_to_bribe": "Custará {bribe_amount} moedas para cada tentativa de suborno.",
+		"attempt_to_bribe_facility_name": "Tentar subornar {facility_name}"
+	},
+
+	"planet_panel": {
+		"scan_description": "Com o equipamento de digitalização correto, você pode descobrir mais sobre este objeto celeste.",
+		"visit_planet_description": "Você precisa de uma nave de transporte para enviar uma equipe a este planeta.",
+		"planet_info_title": "Informações do planeta:"
+	},
+
+	"incapable_performing_skill": "Incapaz de realizar esta habilidade",
+	"level": "Nível de habilidade",
+	"total_experience": "Experiência total",
+	"experience_next_level": "Experiência para o próximo nível",
+
+	"disable_flooring_button": "Ativa a seleção de pisos.",
+	"click_to_center": "Clique aqui para saltar para o sujeito.",
+
+	"door_opening": "Abrindo",
+	"door_open": "Aberto",
+	"door_closing": "Fechando",
+	"door_closed": "Fechado",
+	"battery_discharge_efficiency": "{efficiency}% de Eficiência - descarregando {power_draw}{unit}.",
+
+	"kilogram_unit": "kg",
+	"tonne_unit": "T",
+	"money_unit": "cr",
+	"watt_days_unit": "Wd",
+	"watt_unit": "W",
+	"litres_unit": "L",
+	"litre_days_unit": "LPD",
+
+	"durability": "Durabilidade",
+	"body_covered": "Partes do corpo cobertas",
+
+	"zone": "Zona",
+
+	"change_character_name": "Alterar nome do personagem",
+	"change_room_name": "Alterar nome da sala",
+	"change_ship_name": "Alterar nome da nave",
+	"change_faction_name": "Alterar nome da facção",
+	"change_zone_name": "Alterar nome da zona",
+	"room_name": "Nome da sala",
+	"ship_name": "Nome da nave",
+	"faction_name": "Nome da facção",
+	"zone_name": "Nome da zona",
+	"crew": "Tripulação",
+	"mission": "Missão",
+
+	"mod_game_version": "Para versão do jogo",
+	"mod_author": "Autor",
+	"version": "Versão %s",
+
+	"reducing_mood": "Reduzindo o humor em",
+	"increasing_mood": "Aumentando o humor em",
+	"lasting_for": "Com duração de",
+
+	"fatal_error_files_missing_or_corrupt": "ERRO FATAL: Arquivos ausentes ou corrompidos necessários para executar o jogo. {message}. Desligando! - por favor, verifique erros de digitação no nome do arquivo ou da pasta ou baixe os arquivos novamente e relate um bug com seus dados de log.",
+
+	"nowhere_to_drink": "Não há lugar para sua tripulação beber",
+	"nowhere_to_eat": "Não há lugar para sua tripulação comer",
+	"nowhere_to_sleep": "Não há camas disponíveis para sua tripulação dormir",
+	"nothing_to_drink": "Sua tripulação não tem nada para beber",
+	"nothing_to_eat": "Sua tripulação não tem nada para comer",
+	"history": {
+		"joined_crew": "Juntou-se à sua tripulação."
+	},
+
+	"notification": {
+		"exhausted": "{pawn_name} está exausto.",
+		"dehydrated": "{pawn_name} está desidratado.",
+		"starving": "{pawn_name} está faminto.",
+		"suffocating": "{pawn_name} está sufocando.",
+		"joined_crew": "{pawn_name} juntou-se à sua tripulação",
+		"left_crew": "{pawn_name} deixou sua tripulação",
+		"pawn_skill_levelled_up": "{pawn_name} alcançou o nível {level} em {skill}.",
+		"pawn_skill_atrophy": "{pawn_name} reduziu para o nível {level} em {skill}.",
+		"room_breach_sealed": "{room_name} foi selada.",
+		"room_breached": "{room_name} foi violada.",
+		"room_destroyed": "{room_name} foi destruída.",
+		"ran_out_of_fuel": "A {entity} ficou sem combustível.",
+		"red_alert_started": "ALERTA VERMELHO INICIADO!",
+		"red_alert_finished": "ALERTA VERMELHO ENCERRADO!",
+		"nothing_to_cancel": "Não há nada para cancelar aqui.",
+		"nothing_to_deconstruct": "Não há nada para desconstruir aqui.",
+		"nothing_selected_to_mine": "Não há nada selecionado para minerar.",
+		"nothing_selected_to_harvest": "Nada selecionado pode ser colhido.",
+		"nothing_selected_to_hunt": "Não há nada selecionado que possa ser caçado.",
+		"unable_to_place_zone_here": "Incapaz de colocar uma zona aqui.",
+		"no_path_nearby": "Não há caminho disponível nas proximidades.",
+		"thrusters_need_to_be_powered_to_enter_high_burn": "Seus propulsores precisam ser ligados antes que você possa entrar em alta velocidade.",
+		"no_crew_to_operate_this": "Você não tem tripulação para operar isso.",
+		"claimed_a_bed_in_room": "{pawn_name} reservou uma cama em {room_name}.",
+
+		"out_of_build_bounds": "Fora dos limites.",
+		"cannot_build_on_a_blueprint": "Um projeto já existe aqui.",
+		"already_have_transponder": "Apenas um transponder é permitido.",
+		"space_already_occupied": "O espaço já está ocupado.",
+		"you_have_no_transponder": "Você não tem transponder.",
+		"cannot_be_placed_here": "Não pode ser colocado aqui.",
+		"cannot_be_placed_in_empty_space": "Não pode ser colocado no espaço vazio.",
+		"identical_object_already_exists_here": "Um objeto idêntico já existe aqui.",
+		"identical_blueprint_already_exists_here": "Um projeto idêntico já existe aqui.",
+		"must_be_placed_on_ship_structure": "Deve ser colocado na estrutura da nave.",
+		"cannot_be_placed_on_armour": "Não pode ser colocado no casco blindado.",
+
+		"must_be_placed_internally": "Deve ser colocado internamente.",
+		"already_flooring_overlay_here": "Outra camada de piso já existe aqui.",
+	
+		"bribe_successful": "Seu suborno foi bem-sucedido!",
+		"bribe_unsuccessful": "Seu suborno não foi bem-sucedido!",
+		"ship_cannot_afford_this": "Este comerciante não pode comprar isso!",
+		"player_not_enough_credits": "Você não tem moedas suficientes para comprar isso!",
+		"no_credits_no_bribe": "Você não pode pagar por isso!",
+		"no_communication_device": "Você precisa de um dispositivo de comunicação ligado para iniciar comunicações!",
+		"no_crew_member_to_communicate": "Não há ninguém para abrir comunicações.",
+		"could_not_create_role": "Esta função não pôde ser criada.",
+
+		"follow_tutorial": "Por favor, leia e siga a mensagem do tutorial atual."
+	},
+
+	"breathability_status": {
+		"excellent": "Excelente",
+		"good": "Bom",
+		"high": "Alto",
+		"critically_high": "Criticamente alto",
+		"dangerously_high": "Perigosamente alto",
+		"low": "Baixo",
+		"critically_low": "Criticamente baixo",
+		"dangerously_low": "Perigosamente baixo",
+		"suffocating": "Sufocante",
+		"toxic": "Ligeiramente tóxico",
+		"highly_toxic": "Altamente tóxico"
+	},
+
+	"loading_text": {
+		"powering_up": "Ligando.....",
+		"powering_down": "Desligando.....",
+		"booting_systems": "Iniciando sistemas.....",
+		"restarting_systems": "Reiniciando sistemas.....",
+		"building_core_data": "Construindo dados principais.",
+		"building_module_data": "Construindo dados de módulo.",
+		"building_textures": "Construindo texturas.",
+		"world_grid_ready": "Grade mundial pronta.",
+		"loading_game_world": "Carregando mundo do jogo.",
+		"generating_initial_room": "Gerando sala inicial."
+	},
+
+	"relation_text": {
+		"neutral": "neutro",
+		"friendly": "amigável",
+		"hostile": "hostil"
+	},
+
+	"grammar_engine": {
+		"male_pronoun": "ele",
+		"female_pronoun": "ela",
+		"other_pronoun": "eles",
+		"male_possessive": "dele",
+		"female_possessive": "dela",
+		"other_possessive": "deles",
+		"male_reflexive": "ele mesmo",
+		"female_reflexive": "ela mesma",
+		"other_reflexive": "eles mesmos",
+		"male_object": "ele",
+		"female_object": "ela",
+		"other_object": "eles"
+	},
+
+	"date": {
+		"st": "º",
+		"nd": "º",
+		"rd": "º",
+		"th": "º",
+		"month_1": "primeiro terço",
+		"month_2": "terço médio",
+		"month_3": "último terço",
+		"time_display": "Data Espacial:\nHora: {hours}\nDia: {day}\nMês: {month} ({month_text})\nAno: {year}",
+		"seconds": "segundos",
+		"minutes": "minutos",
+		"hours": "horas",
+		"days": "dias",
+		"start_date": "{day}º do {month}, {year}"
+	},
+
+	"default": {
+		"no_string": "SEM STRING"
+	},
+
+	"backstory": {
+		"health_state": "é um(a) {health_status}",
+		"joined_crew": "{pawn_name} juntou-se à sua tripulação no dia {day} de {month}, {year}.",
+		"age_gender_and_species_status": "é um(a) {gender} {species}, nascido(a) no dia {day} de {month}, {year}, o que faz {pawn_reflexive_short} ter {age} anos"
+	},
+
+	"debug": {
+		"fill": "Preencher",
+		"empty": "Esvaziar",
+		"min_add": "Adicionar 0.1",
+		"remove_item": "Remover item",
+		"remove_all_items": "Remover todos os itens",
+		"auto_build": "Auto construção"
+	},
+
+	"state_text": {
+		"rotting": "Apodrecendo.",
+		"idle": "Ocioso.",
+		"awaiting_orders": "Aguardando ordens.",
+		"collapsed": "Colapsado.",
+		"decomposing": "Decompondo."
+	},
+
+	"health_state": {
+		"healthy": "Saudável",
+		"unwell": "Indisposto",
+		"wounded": "Ferido",
+		"debilitated": "Debilitado",
+		"near_death": "Quase morte",
+		"dead": "Morto"
+	},
+
+	"priority": {
+		"will_not_do_it": "Não fará esta tarefa",
+		"low": "Baixa prioridade",
+		"medium": "Média prioridade",
+		"high": "Alta prioridade",
+		"highest": "Prioridade máxima"
+	},
+
+	"combat": {
+		"pawn_damaged_pawn": "{damaged} {pawn}'s {victim_part} usando seu {part}",
+		"pawn_missed_pawn": "Tentou atingir {pawn}'s {victim_part} com seu {part}",
+		"is_mobile": "Está móvel",
+		"collapsed_reason": "Colapsou {reason}",
+		"died_reason": "Morreu {reason}"
+	},
+
+	"storage_priority": {
+		"low": "baixa",
+		"medium": "média",
+		"high": "alta"
+	},
+
+	"game_speed": {
+		"pause": "Pausa",
+		"normal_speed": "Velocidade 1X",
+		"fast_speed": "Velocidade 3X",
+		"faster_speed": "Velocidade 5X"
+	},
+
+	"captain_creation": {
+		"the_captain": "o cap",
+
+		"choose_captain_gender": "Toda nave precisa de um capitão e você criará o seu agora. Você pode decidir levá-lo com você ou escolher outra pessoa.\n\nO gênero do seu capitão é...",
+		"gender": "Gênero",
+
+		"Vitality": "Vitalidade",
+		"rough_age": "Seu capitão tem aproximadamente...",
+
+		"childhood": "Infância",
+		"as_a_child": "Quando criança, seu capitão era muito admirado por seu(sua)...",
+		"adolescence": "Adolescência",
+		"growing_up_your_captain": "Crescendo, seu capitão era principalmente...",
+
+		"profession": "Profissão",
+		"as_a_professional": "Como profissional, seu capitão era conhecido por ser um(a)...",
+
+		"starts_with": "Começa com"
+	}
+}
+
